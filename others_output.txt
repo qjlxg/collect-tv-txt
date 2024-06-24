@@ -2640,10 +2640,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=956ec0de995c3d4172f215d6b9a65bed&txTime=66792C5A
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=91290fc705bd5297e47a58a5611c6cc0&txTime=66792C5A
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=71e8713c9f20e1b21be1daed085d4ffc&txTime=66792D09
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=47328fef2b0140aa4cc8f11f9ef3c0c7&txTime=66792C9F
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=9ab47bcf4b49aae3e73b082ab1b7ce02&txTime=66793A6A
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=3aaa52d54e78d88e787b56ac76ee72b4&txTime=66793A6A
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=94b9c56690779cad3b953f33ad4852bd&txTime=66793A9E
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=56968a777b4db182137767139fc5886c&txTime=66793A9F
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2718,7 +2718,6 @@ ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/171923
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 Star Sports 1 HD,https://criccoder.pages.dev/ss1.m3u8
 Star Sports 2 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-Star Sports 1 HD Hindi,https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
 Super Sports Cricket,https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 Super Sports Grandstand,http://145.239.5.177:8080/567/index.m3u8
 Astro Cricket,https://criccoder.pages.dev/astro.m3u8
@@ -2846,6 +2845,8 @@ Rajdhani TV,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTA
 Florida Bangla TV,http://162.244.81.200:1935/live/livestream/playlist.m3u8
 Bangla+,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 ENTER 10 BANGLA,https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+PTC PUNJABI,https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+PTC PUNJABI GOLD,https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 GUBBARE KIDS,https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 MBC 1 (1080p),https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 MBC 3 EUR (1080p),https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
