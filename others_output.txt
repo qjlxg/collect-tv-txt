@@ -2720,6 +2720,7 @@ Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/6
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
+ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
@@ -2815,7 +2816,6 @@ Rtv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 Varendra Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/mono.m3u8
 SA Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
 Deepto,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/mono.m3u8
-Deepto,https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 Nexus Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
 Ekhon Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
 Rajdhani TV,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
@@ -2844,6 +2844,7 @@ Ekushey TV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3
 Deepto Tv FHD,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 B4U Kadak SD,https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 Bollywood Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+My Cinema FHD,http://210.210.155.35/session/ceb2a3cc-fe47-11ee-8b94-9bb3a735be54/uq2663/h/h192/index.m3u8
 Bollywood HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Bollywood FHD,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 Bollywood Prime,https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
