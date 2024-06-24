@@ -1263,7 +1263,7 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 CETV4空中课堂频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
 湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTY5ZmJmYTU4YWI3OWQxMjMwNjE1YjlmNWMyMjc3ZDU3JmVzPTE3MTkyNDAzMzImdXVpZD0zMDg3NWUzNzBiYjU4OGFiODUzYWQ1NmIxNjRkY2U4OC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
 金鹰纪实频道,https://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQ0ODgyZDBmZmRmYTVjNWY2NTEyZDc0MTUyOTgyYWZiJmVzPTE3MTkyNjA5NjkmdXVpZD1lYTA0ZDIzYjVhMzc5YmM5YTdmOTcxNmYxMGQ5NmJlNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
-湖南国际频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWUyZDNlYTBjMWQyZDg1OGQ1MTVmYjNiNTg2MDRlYWU4JmVzPTE3MTkyMzQ0MDUmdXVpZD0yOGFjODMyMWFiNDU4ODZjYTZlZTI3NGU4ZDM2ZWEyNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
+湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWJkYjY2N2M2Yjg5ZDk0ZDI3NzRiYmEyMDQxYjFmMTA2JmVzPTE3MTkyNjMyNTAmdXVpZD0xMWU4YzlhNGRhN2FjZGY4YTY3ZjNhOTg0NTcxMWIwOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY2YzI2ODZjNGVmZjAxZjdjZjYwODZhZmIzNjZlMzBmJmVzPTE3MTkyNDEzMjAmdXVpZD01YWJkM2I5N2EyY2Q4NDFlOWIwMTAwYWEyYjM5ZGFjZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
@@ -2637,7 +2637,7 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
 贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=95bbe55cb6988af7cd5d03d01857a9b1&txTime=66796D5F
 贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=ce7e2ee9df3a7e9a94e41ee5ecd1368e&txTime=66796D60
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=5f21474bbd89edc143feaaee61f67d5d&txTime=667966CA
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=472a5d2b9ae9cbac118cca7790b1acc4&txTime=6679731F
 贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=88be402196216720c2bf69033fac6812&txTime=66796D60
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2713,7 +2713,6 @@ ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/171925
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 Star Sports 1 HD,https://criccoder.pages.dev/ss1.m3u8
 Star Sports 2 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-Star Sports 1 HD Hindi,https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
 Super Sports Cricket,https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 Super Sports Grandstand,http://145.239.5.177:8080/567/index.m3u8
 Astro Cricket,https://criccoder.pages.dev/astro.m3u8
@@ -2722,7 +2721,6 @@ Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
 ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 MY TV,https://myflixbd.com/0.m3u8
@@ -2772,6 +2770,7 @@ Animal Planet,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Anim
 TLC HD,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 Nat Geo HD,http://148.113.5.31:8106/play/a00p/index.m3u8
 BBC Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+CGTN Documentary,https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Travel XP GB,https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 Travel XP English NL,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
@@ -2810,19 +2809,21 @@ ATN Bangla,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAg
 ATN Islamic,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/mono.m3u8
 Channels S,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
 Ekushey Tv,https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-Mohona Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/mono.m3u8
 Movie Bangla,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/mono.m3u8
 NRB Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
 Rtv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 Varendra Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/mono.m3u8
 SA Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
 Deepto,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/mono.m3u8
+Deepto,https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 Nexus Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
 Ekhon Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
 Rajdhani TV,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
 Florida Bangla TV,http://162.244.81.200:1935/live/livestream/playlist.m3u8
 Bangla+,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 ENTER 10 BANGLA,https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+PTC PUNJABI,https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+PTC PUNJABI GOLD,https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 GUBBARE KIDS,https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 MBC 1 (1080p),https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 MBC 3 EUR (1080p),https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -2846,6 +2847,7 @@ Ekushey TV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3
 Deepto Tv FHD,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 B4U Kadak SD,https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 Bollywood Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+My Cinema FHD,http://210.210.155.35/session/ceb2a3cc-fe47-11ee-8b94-9bb3a735be54/uq2663/h/h192/index.m3u8
 Bollywood HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Bollywood FHD,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 Bollywood Prime,https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -3510,7 +3512,7 @@ STAR,http://canli.haber365.com.tr/tr/startv/index.m3u8
 SHOW,https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 SHOW,http://canli.haber365.com.tr/tr/showtv/index.m3u8
 NOW,https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-NOW,https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8c_gQxBJNTgHCdhPXJv20g&e=1719235405
+NOW,https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=nGTaukxXfCIT1ZDTG5S9zA&e=1719247170
 TV8,https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 TV8,https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 ATV,https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
@@ -3529,7 +3531,7 @@ KANAL D (backup),https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 STAR (backup),http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 STAR (backup),https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 SHOW (backup),https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
-NOW (backup),https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8c_gQxBJNTgHCdhPXJv20g&e=1719235405
+NOW (backup),https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=nGTaukxXfCIT1ZDTG5S9zA&e=1719247170
 NOW (backup),https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 NOW (backup),https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 NOW (backup),https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
