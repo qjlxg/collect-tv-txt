@@ -1262,7 +1262,7 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV4空中课堂频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
 湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTY5ZmJmYTU4YWI3OWQxMjMwNjE1YjlmNWMyMjc3ZDU3JmVzPTE3MTkyNDAzMzImdXVpZD0zMDg3NWUzNzBiYjU4OGFiODUzYWQ1NmIxNjRkY2U4OC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
-金鹰纪实频道,https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTlkNzk3M2NiMzA0YzJmZWMxZTk1YjI2OGFkNjIyYTM1JmVzPTE3MTkyMzIwNjcmdXVpZD1iYzQ4ZDBlMWYxM2I0YThhNDhjOWJjYTU1MzQ0MzQ1NC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/JYJSMPP360.m3u8
+金鹰纪实频道,https://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQ0ODgyZDBmZmRmYTVjNWY2NTEyZDc0MTUyOTgyYWZiJmVzPTE3MTkyNjA5NjkmdXVpZD1lYTA0ZDIzYjVhMzc5YmM5YTdmOTcxNmYxMGQ5NmJlNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
 湖南国际频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWUyZDNlYTBjMWQyZDg1OGQ1MTVmYjNiNTg2MDRlYWU4JmVzPTE3MTkyMzQ0MDUmdXVpZD0yOGFjODMyMWFiNDU4ODZjYTZlZTI3NGU4ZDM2ZWEyNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
 长沙新闻频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY2YzI2ODZjNGVmZjAxZjdjZjYwODZhZmIzNjZlMzBmJmVzPTE3MTkyNDEzMjAmdXVpZD01YWJkM2I5N2EyY2Q4NDFlOWIwMTAwYWEyYjM5ZGFjZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -2635,10 +2635,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=218db7a332754323500f2b7aebcffa89&txTime=6679568B
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=7456ae4a4ad6c24d4a371cd7236790cd&txTime=6679568B
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=cb237f07790aa98affe48c5771394958&txTime=66795723
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=a7b8b4f4baf266f5bbc85ee152555451&txTime=667956CF
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=31ae42082666f33831108779f1199259&txTime=6679649B
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=4d3eba27211c91b68ec5f6da82f98aa9&txTime=6679649B
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=5f21474bbd89edc143feaaee61f67d5d&txTime=667966CA
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=abf33d5dd5e61cd8cd29a2c22f9cfbd6&txTime=667964E0
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2871,7 +2871,6 @@ ASTRO CRICKET HD,https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 SKY SPORTS Cricket,https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 Astro Crickt HD ✅,https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 ✅ Astro Crickt HD ✅,https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-Sky Sports Cricket📶 HD,https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 ✅ Super Sports Cricket,https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 ✅ ATN AFG TV,https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 🔲 Event TV 📶 HD,https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
