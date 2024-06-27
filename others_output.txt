@@ -2648,10 +2648,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=7cf257dc10ad9409e998ee45dc53e639&txTime=667CDA8A
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=0b41a4f6c41c80803c62d2dec269b7ec&txTime=667CDA8B
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=e95b33e09995df7fa24dddbc0c96cdaa&txTime=667CDA8B
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=9ddf80405e2f92613ac87ea576454f9d&txTime=667CDA8B
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=d9c8dda2288b70d863517515aa6f22e9&txTime=667CE985
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=ad49ca1bcf97719ab4f2ca90f129e323&txTime=667CE985
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=8d879a4f0cd70529730b120df69aed6d&txTime=667CE986
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=22e5007425ce18982b2f51748870ef83&txTime=667CE986
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2727,12 +2727,12 @@ ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 Toffee Live Match 1,https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8
 Star Sports 1 HD,https://criccoder.pages.dev/ss1.m3u8
 Star Sports 2 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
+Star Sports 1 HD Hindi,https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
 Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
 ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
@@ -2848,6 +2848,7 @@ Deepto,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoa
 Deepto,https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 Nexus Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
 Ekhon Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
+Rajdhani TV,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
 Florida Bangla TV,http://162.244.81.200:1935/live/livestream/playlist.m3u8
 Bangla+,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 ENTER 10 BANGLA,https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -2868,11 +2869,12 @@ Independent News,https://livess.ncare.live/live-orgin/independent-8-org.stream/c
 JAMUNA TV,https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 Movie Bangla,https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 NTV,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+Rajdhani Tv,https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 Ekushey TV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Deepto Tv FHD,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 B4U Kadak SD,https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 Bollywood Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-My Cinema FHD,http://210.210.155.35/session/ceb2a3cc-fe47-11ee-8b94-9bb3a735be54/uq2663/h/h192/index.m3u8
 Bollywood HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Bollywood FHD,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 Bollywood Prime,https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -2917,6 +2919,7 @@ Discovery HD (Subir),https://raw.githubusercontent.com/subirkumarpaul/My-iptv/ma
 Discovery HD,https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 Discovery Hindi HD (BD),https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 Discovery HD,https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+TLC (L*),https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 TLC HD,https://varun-iptv.netlify.app/m3u/TLC.m3u8
 TLC English,https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 Animal Planet Multi Audio,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
@@ -3529,7 +3532,7 @@ STAR,http://canli.haber365.com.tr/tr/startv/index.m3u8
 SHOW,https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 SHOW,http://canli.haber365.com.tr/tr/showtv/index.m3u8
 NOW,https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-NOW,https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SuMpT0n1LwvuBtHhTTkCVg&e=1719466275
+NOW,https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=1ZlMe_tdzEGealHsqzWtDQ&e=1719472849
 TV8,https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 TV8,https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 ATV,https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
@@ -3548,7 +3551,7 @@ KANAL D (backup),https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
 STAR (backup),http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 STAR (backup),https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 SHOW (backup),https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
-NOW (backup),https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SuMpT0n1LwvuBtHhTTkCVg&e=1719466275
+NOW (backup),https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=1ZlMe_tdzEGealHsqzWtDQ&e=1719472849
 NOW (backup),https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 NOW (backup),https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 NOW (backup),https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
@@ -4579,10 +4582,15 @@ IRIB 4 (backup),https://s1.ettehadlive.com/live/41/chunklist.m3u8
 IRIB 5 (backup),https://ncdn.telewebion.com/tv5/live/playlist.m3u8
 IRIB IRINN (backup),https://s1.ettehadlive.com/live/42/chunklist.m3u8
 CNN INT,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN INT,https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
+CNN INT,https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 CNN INT,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+CNN INT,https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
 CNN INT,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN INT,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+CNN FAST,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lggb/playlist.m3u8
+CNN FAST,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgfr/playlist.m3u8
+CNN FAST,https://d2anxhed2mfixb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wqc602hxepp0q/CNNFAST_GB.m3u8
+CNN FAST,https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 FOX NEWS,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
@@ -4591,6 +4599,8 @@ FOX NEWS,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3
 NBC NEWS,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 NBC NEWS,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
 NBC NEWS,https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
+NBC NEWS,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+NBC NEWS,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
 NBC NEWS,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 ABC NEWS,https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
 ABC NEWS,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -4599,19 +4609,24 @@ CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d5
 CBS NEWS,https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 CBS NEWS,https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 CBS NEWS,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-CNBC NEWS [downlink],https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
+CNBC NEWS,https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
+CNBC NEWS,https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
 CNBC NEWS,https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 NEWS MAX,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 REAL AMERICAS VOICE,https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 USA TODAY,https://lnc-usa-today.tubi.video/playlist.m3u8
+USA TODAY,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 OANN,https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 VOA TV,https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 CBC NEWS,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 GLOBAL NEWS,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC NEWS,https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC NEWS,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+BBC NEWS,https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 SKY NEWS,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 SKY NEWS,https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 SKY NEWS,https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -4620,6 +4635,8 @@ GB NEWS,https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlis
 GB NEWS,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 TALK NEWS,https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 THE GUARDIAN CHANNEL,https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+REUTERS TV,https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+REUTERS TV,https://amg00453-reuters-amg00453c1-samsung-fr-2112.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungfr/playlist.m3u8
 BLOOMBERG UK,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 BLOOMBERG UK,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 BLOOMBERG US,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
@@ -4669,6 +4686,7 @@ RT NEWS [censure-blocked],https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 CNN INT [downlink],https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
 CNN INT [downlink],https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 CNN INT [downlink],https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8
+CNN INT [downlink],https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
 SKY NEWS [deadlink],https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_hd.m3u8
 SKY NEWS [deadlink],http://linear116-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynewsinternational)/index_sd.m3u8
 SKY NEWS [deadlink],https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
@@ -9231,6 +9249,112 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN纪录,https://news.cgtn.com/resource/live/document/cgtndoc.m3u8
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
+亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
+澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8?wowzasessionid=64000?zgangd
+1905电影网1(国内电影),http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网2(国外电影),http://php.jdshipin.com:8880/1905.php?id=1905dy2
+美亚电影台,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV超级电视剧,http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1713337309&from=4&hms_devid=991&online=1713337309&vqe=3
+NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV潮妈辣婆,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+NewTV哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+NewTV古装剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV海外剧场,http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV精品综合,http://117.175.185.226:4088/rtp/239.11.0.147:5140
+NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV热播精选,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV炫舞未来,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NewTV武搏世界,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010135/1.m3u8
+NewTV怡伴健康,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang1989
+法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang1989
+欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang1989
+金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang1989
+乐游,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang1989
+文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+蒋雪儿-因为你爱上他,https://vd4.bdstatic.com/mda-mgw1y2dhj59x7yuy/sc/cae_h264/1627694965549737840/mda-mgw1y2dhj59x7yuy.mp4
+杨紫琼-爱似流星,https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
+李丽芬-得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
+李丽芬-爱江山更爱美人,http://em.21dtv.com/songs/60007640.mkv
+钟镇涛-让一切随风,http://em.21dtv.com/songs/60036211.mkv
+黄安-新鸳鸯蝴蝶梦,http://em.21dtv.com/songs/60050985.mkv
+BMG全体歌手-123木头人,http://em.21dtv.com/songs/60052907.mkv
+伍佰一生最爱的人,http://em.21dtv.com/songs/60053640.mk
+5566-好久不见,https://vd4.bdstatic.com/mda-mm99ywfpecwhabw0/sc/cae_h264/1639149280401144871/mda-mm99ywfpecwhabw0.mp4
+孟庭苇-真的还是假的,http://em.21dtv.com/songs/60058093.mkv
+TWINS-星星月亮太阳,http://em.21dtv.com/songs/60051124.mkv
+黎姿-因你真正活过,http://em.21dtv.com/songs/60054205.mkv
+郭可盈-有你已经足够,http://em.21dtv.com/songs/60055240.mkv
+吴泓君-怨苍天变了心,http://em.21dtv.com/songs/60056176.mkv
+苏红-月亮走我也走,http://em.21dtv.com/songs/60056452.mkv
+许佳慧-预谋,http://em.21dtv.com/songs/60094687.mkv
+许冠杰-印象2002(演唱会),http://em.21dtv.com/songs/60054400.mkv
+孙耀威-爱的故事《上集》,http://em.21dtv.com/songs/60007231.mkv
+徐小明-好小子,https://vd4.bdstatic.com/mda-ndg459xpiff7n35h/sc/cae_h264_delogo/1650366146649774208/mda-ndg459xpiff7n35h.mp4
+佚名-月朦胧鸟朦胧,http://em.21dtv.com/songs/60056468.mkv
+张学友&汤宝如-相思风雨中,https://vd4.bdstatic.com/mda-pejjnjs2i8kj7dw6/720p/h264/1684591039664033587/mda-pejjnjs2i8kj7dw6.mp4
+柳云龙-一生别无所求,http://em.21dtv.com/songs/60086122.mkv
+王力宏-一首简单的歌,http://em.21dtv.com/songs/60053684.mkv
+萨顶顶-自由行走的花,http://em.21dtv.com/songs/60070271.mkv
+张蔷-爱你在心口难开,http://em.21dtv.com/songs/60008040.mkv
+古皓-爱情没有那么美,http://em.21dtv.com/songs/60008311.mkv
+草蜢-难得有情人,http://em.21dtv.com/songs/60076846.mkv
+邰正宵-一千零一夜,https://vd4.bdstatic.com/mda-nk78bdfwcjeh3hvw/720p/h264/1667886784673447421/mda-nk78bdfwcjeh3hvw.mp4
+AOA-短裤,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+BlackPink-Loser(失败者),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+BlackPink-彩排,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+蜡笔团-FM,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+蜡笔团-星期六晚上,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+CLCDevil(魔鬼),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+追梦者-Breaking Out(爆发),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+追梦者-德扎普,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+女孩节-Something,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+少女时代-Gee(哇),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+少女时代-狮子心,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+少女时代-Oh,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+(G)IDLE-LATATA,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+(G)IDLE-Uhoh,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+张多慧-我们不能在一起说话,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+蜂蜜爆米花迪塞奥斯塔,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+J.FlaSenorita(小姐),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+拉布姆糖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+MAMAMOO-Gogobebe,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+Secret-YooHoo,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+Sistar-我一个人,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+Tara-无糖的,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+ATEEZ-Aurora(曙光),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+2NE1-不能没有人,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+2NE1-打开,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 CGTN俄语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
