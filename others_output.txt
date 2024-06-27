@@ -1319,10 +1319,10 @@ CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 RTP 1,https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 RTP 2,https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-TVI,https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEwOjU6MzMgQU0maGFzaF92YWx1ZT1GK3VSOWlIVUtGTGNXUEo5OU1EcmdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGJkYTgyYTQtMjc2Yy00YzZmLWIzM2QtNThhOWE4NTQ1NjY5/
+TVI,https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEyOjg6MzYgUE0maGFzaF92YWx1ZT1ZWVEySmZBRFFNU2crV1d0Q1N3MFdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTNkMjc5ZDYtMDAwNy00N2RiLThjOTMtM2IyNTBkOGEwYWFm/
 RTP 3,https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 SIC Notícias,https://sicnot.live.impresa.pt/sicnot.m3u8
-CNN Portugal,https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEwOjU6MzMgQU0maGFzaF92YWx1ZT1hZGNDKzhlZ2FISmg0T0djdTA5c0t3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Mzc4MGFlZmEtM2QwMC00MDYzLTk0ZjgtZGQ5MjhlNWM3NWM2/
+CNN Portugal,https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEyOjg6MzcgUE0maGFzaF92YWx1ZT1zS1oyQXVJVnMvWEhiL2FOQnlrMmx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzVhYmUyNjQtZWNlNC00ODIxLTk1ODctMGIzNmYwNWJlNzQ4/
 Euronews PT,https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
 ARTV,https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 RTP Memória,https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
@@ -1330,7 +1330,7 @@ RTP Açores,https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/pla
 RTP Madeira,https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 RTP África,https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 RTP Internacional,https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-TVI Internacional,https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEwOjU6MzQgQU0maGFzaF92YWx1ZT1GVVdxZnNEdGMzK1lpRnNZVWM1cGZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDdlOTIzOTItMTA3Zi00Y2MxLThiMGItMmI0ZjAzYjgwMjhh/
+TVI Internacional,https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI0IDEyOjg6MzggUE0maGFzaF92YWx1ZT1Kd1ltREF2NmJOSTB3Y1JNMEhZNDhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmEwMTVhZjktMDBiMC00YjFjLTllNjktMjc0NWZlMzI3ZmQz/
 TVI África,https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 TVI Ficção,https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 TVI Reality,https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
@@ -2236,83 +2236,83 @@ FIGHT SPORTS,http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/
 REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Playlist is for Free,https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 BFM Grand Lille (720p),https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-NewsTamil 24x7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504033/ei/QTh9ZrfOJM-8sfIPhv-pyAM/ip/20.172.5.35/id/T0IaUfLap5s.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzIfnW3AoVbFKOCZFYCYNyrqEAGfomBxrsT0_DFw0KnppxvhrM3NybGQxLk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKd2QiV0kfwEFgxl0BwXpWu6XNo0ZNppW_arWfdO4d5sCICWlaUkGKo_qJUqTbHxyI66-9p6TZO-yFHZj_E1WdVU4/file/index.m3u8
-Polimer News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504034/ei/Qjh9ZrnTAavTsfIPjK6uwAg/ip/20.172.5.35/id/wWB9rkrOfok.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0IfeSyr5hZo9st295fPmldEvj8qCZY--T_sTwr2ouAW7JbwRirdbUnSYa4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ0ypGHIyE3C3buvYvG7T1XAA4zZX49USIu9iXs4XvT8AiAlkSYgPtFXcGMTprozz7Q4zE-Mrf1HyerGOjckXq218g%3D%3D/file/index.m3u8
-PuthiyaThalaimurai,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504034/ei/Qjh9Zv_ZH4K_sfIPqJmzqAw/ip/20.172.5.35/id/2m5rOzvy5UU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-7gNMYRkoLFBi31cl6bCzYqV57z6-XQrG0wP9zfnunbc0pNjXlqYGmNZdg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXkczu-WReWaxWv8qk4yyf803RM4Er0iJOZcgLYb9j5ACIAUVx7r69xrqVMDLafJS1wz0npvzttYG4kn3l_UIDMGp/file/index.m3u8
-Thanthi TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504035/ei/Qzh9ZrCQAcm_sfIPn5GXcA/ip/20.172.5.35/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f16ZINt_HXQPwBHYK6xXA_gvTPdDUXbF2xL9DMZCofpz21IxCbIw6AbvY8o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANrj8S7qtzPD9kO7mXFFNRhFthjJ8krlsZoYIIjV-SwMAiEAwgTBW1o6ymHT3mtmphOPtb-ndvWZa4vIZvq-ZY0jldc%3D/file/index.m3u8
-Tamil Janam,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504035/ei/Qzh9ZsHqI7W2sfIP7aOliAw/ip/20.172.5.35/id/rlIcPUbgTdA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyuyhJ0DqANiDhWtC8aEaxcOIFu7fVZE_EkDQ1zzD5R29a3PH_pSYXO21pE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFESAm6Olzv81yp52Kkth5bPaDQuyJIUi1Xs89_YDF3wCIQDfhryzn1QDWH5FNlXbJCPR_t0_96j14Y9_ndwmcl7uvw%3D%3D/file/index.m3u8
-Kumudam News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504036/ei/RDh9ZqD3BLTWsfIP466ZmAs/ip/20.172.5.35/id/TPbq-DjKlAY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_CCZoBJWXct9d5jMIGT7O6b_OPF9gm-AOK4d5NBqrosxX1eAp4aVhpQK_k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ4RDXS1e3fylUoXIFLZaNH2Gg9OnGh9XWwgqw6LPdlDAiEA6lp00rrFHBrJLEFNQmgi_rpr2XI9Kza5ueToOO8_M8A%3D/file/index.m3u8
-M Nadu News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504036/ei/RDh9ZteeJKSusfIPzJCKyAw/ip/20.172.5.35/id/zR0YOdFflnY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw2y61z-tIahA-h90Y2AhoSJgboZEoo_sJtlblN8dYPLuuHM3PbAoeR-gBc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIjIBoZ3Y84QApCFNYHU9z_S1B-2PrI2zFJz6R_gIKUACIQCIZ6eJHQMQHBHVvn1xAqTbISwjyAhZ2WkKUjH-JqZ50A%3D%3D/file/index.m3u8
-Sathiyam TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504037/ei/RTh9Zq7KCJewsfIPz_Kh-Aw/ip/20.172.5.35/id/lJjSLQsRfiE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4Hnc8NhSfCEuqrSIma76lhi-7fA8PQtEii9f-xHZPY2uFOCEJJ3QQwuT3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI8pLlLUM2PgjU7FUnqqPXyClcdcSP1UaiJXDMQkwghWAiBkGA0JVguaG0fKg4kLfLRFP8dW-IOwXUBKFoZE3UXtSQ%3D%3D/file/index.m3u8
-Malaimurasu Tv,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504037/ei/RTh9ZpHhIrzysfIP8aiL0Ao/ip/20.172.5.35/id/TxwW5Geg9II.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyJWwuKaORhdEbQ1qXKQGx9F6kxKxI4NDc6-Dlmw7KIMOv2OqrNjxgu2Gmc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWXFz1IPLFl9u0xdZjf5zJhQoS-HmPKlNiK4Uu_Nmj4YCIH1oGQd3RY79bQ2pxhlisc1isDFtji86j8COppMy-Z--/file/index.m3u8
-Dinamalar,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504038/ei/Rjh9ZvWfBvz2sfIP2PmKqAg/ip/20.172.5.35/id/Ytg52xJSMr0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_VgTxLUZ7UGnSvn1bUXOt9BKd7Ruq5JSj88e2czBU7ulzAAc-MiqSqvjFo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALWzEDimDnN7DmkYiLI6obvZr4WEFz8jOzgkBgeEUYemAiAYumGJ-Cfk8IbldLWAHcJZqr-IF7O07MZZ7guPiec52A%3D%3D/file/index.m3u8
-Sun News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504038/ei/Rjh9ZpmrJvLpsfIPp9eMmAw/ip/20.172.5.35/id/qDB-VxpeJyE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-ktsFW6sVbHXaPC3ImJGx584UTLuqEf6IX_FedR6WzrIOa1crb-u6IQ854/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI9gDBE1wK7vTGqOnACeN2ypRP852JSRvdyAJ1cP03fIAiEAsNczW43OB5clMn9J66VuwT1lh2u5kodqinaY8SsFbqE%3D/file/index.m3u8
-News18 TamilNadu,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504039/ei/Rzh9Zq-IGp6AsfIPwLubwAw/ip/20.172.5.35/id/7nNMHMkiWjs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9ZsYY3NcZB0tGXNdpVXGOpuQK82r3rwhu2jEbpnwFbVCUtlTZYfgYJZcp0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWAXKW6ps-eU7f9WM4RTPa6wLzlD8PxX34LycX5UCeqkCIQC5Md-F_i0yEV9ODvocNXOwnvjVls5fFWBs0xzsn1qPIA%3D%3D/file/index.m3u8
+NewsTamil 24x7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511244/ei/bFR9ZtH-K9CLkucP2Pu6qAs/ip/74.249.13.141/id/T8pQXqQtnRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx6O-FWOAemTtV7xJdDEj8VVZiyPR6ujyxrdDeS_ReSWI3pyHj3Q8Q5KgJE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYz5gB8A4wW2IGWhQjpkJgzUIMRANXyQXkDOVY7yL0P0CIEVhHZXCAstkGuCuQlr8dQAm_zNIDTcQ-5eX3gqNqmgF/file/index.m3u8
+Polimer News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511245/ei/bVR9ZvjzDtC1kucPto-6mAI/ip/74.249.13.141/id/4cZd1rb2p8Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5rsUvI4D47TFW5aREwbMEftxodG0XsxlCl24p8qN4AWsg6yuMwYLInts3s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSuU0Kb_qpEr_t3CAPlHkY5JEMI3RgEg3ka8yALN3iMACIQDtfJ4zsUkizMN_HUR4lLzvtNtXq0r-0tl7OobWppX9VA%3D%3D/file/index.m3u8
+PuthiyaThalaimurai,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511245/ei/bVR9ZsLFLJG2kucP_Ims6AE/ip/74.249.13.141/id/TMHA4sywytA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7CJx2BVw6O99oppRl2xA_rpSZjVtlrr2j6h28NZsBLNUjaKE-UFby0olnQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKYq-CFT1-gwFsnjoqqvBZhsNanh31gdqIBIPBlWex6xAiEAuaRN9eHN3KYjPEp9_S4EwtatgxlGS730e_O8CX4vsHg%3D/file/index.m3u8
+Thanthi TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511246/ei/blR9ZvffDK6okucPx9u62A4/ip/74.249.13.141/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx4crgMpwNNiTjsM6srHJ0a1DpshXIVYXOqHhRKV8MmqW-68B8SiiRT51Wg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJc8eSZnwCdOeklsTBirUGHg6ZR55b9B54iHRdGdGIbPAiB2ljIxn7lh8dco163j00KGv7bPhpT4ecSyTp4w9q9XmQ%3D%3D/file/index.m3u8
+Tamil Janam,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511246/ei/blR9ZoKBL9W3kucP2ICp0A4/ip/74.249.13.141/id/rlIcPUbgTdA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_o0LqW5Nn3Tood5Qzv-VR1hIhy_i8CwqnG7ftFQtsQLySi9qpG0dzp1qw0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJpoyn8kSdXY9pUVgb3f1u2lh3s6zb23tWRkn-7P9YhVAiEAvI2Q3ThM79iVf490qtAeVDdSiQVZPHor-TM4t7epywk%3D/file/index.m3u8
+Kumudam News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511247/ei/b1R9ZvCpDciSkucPopy08A4/ip/74.249.13.141/id/jy-3chGcJnc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6E6hkfV3DoGSpdkpTIsfATRmLE2aYlfgvyAQluPoO-TyeFcGOEmV3xj69s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKP51UC6WSBbW7n-RYf23BS-GLJY5LPOwAhx3HCkb5zeAiEA65I7Z6OZGGRo2D8xm8hyMgC2oxhf1j-ZqRMW4dHaT3E%3D/file/index.m3u8
+M Nadu News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511247/ei/b1R9ZtDuK7OHkucPi-ijiAs/ip/74.249.13.141/id/zR0YOdFflnY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwri6ig7a9FD_KEkQOnYt6vi6swVO9Q6RGvWBbL4d7C_pMMPLHRaxi_8oew/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMrC9De2u3rRhpwOri0WI71qupQw8R_iy2-9dpfjkG0IAiEA_H6LSYvOkmDWc4ke53f62pi1ok43zt5nwYfe1137WAo%3D/file/index.m3u8
+Sathiyam TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511248/ei/cFR9ZvKgFoSBkucP1ZuQ4Ak/ip/74.249.13.141/id/lK_XCOvFwd4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_5NyQ-a-l06gKKwzeXEflxCWXubJ0cKCwXdm5BsbjMxOtHpA-WLLo116b8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWVczQTkrKiRZ5kGmkmF2uammmuHEiMtD4CXE2N74N_ICIHssioEmuYZbaW_BNA3QnLXggmefzO48HEW_jCDgOuxB/file/index.m3u8
+Malaimurasu Tv,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511248/ei/cFR9ZperNNWEkucP9feLwAs/ip/74.249.13.141/id/TxwW5Geg9II.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7_WnpyBOfejJki4Fy_XlN50w7xp0ugSImAaAs4LTfn7A7Q2HKa_rrFBKCY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWzk5T2QSkESHHvyUg_TKBmNwX5bi6ZOuBZRLDotQqnsCIQDftG9VPwsWtrndsYyjGCcD67Jsy7OnFGtT7fdWzKavdw%3D%3D/file/index.m3u8
+Dinamalar,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+Sun News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511250/ei/clR9ZvGKBOKpkucPrLmAwAw/ip/74.249.13.141/id/qDB-VxpeJyE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1dmWudnRb1UdrXzki25P3vj6I5HSriPmeaCU1qgvAqEu4-M5C3KktYxCt0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVJhyC1reT6nZs4XkkUaooq1QV2WF7KJOyv_usyT-kqsCIA4G5KHoVrOmB9knJTC-Sej4dRkl75EZTLT1AEmYTq9x/file/index.m3u8
+News18 TamilNadu,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511250/ei/clR9Zq7xMoupkucP6Yu2gA4/ip/74.249.13.141/id/H-Pok7dy_Pg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f44TOs3DSVkcIySklOxLDZs7Iqg8R-Y8-SXzlWWON_248j5x0F83fPslwsY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6s5iqTGjlvhjzR1KztxRJ25--NDDFaOJDvr4CV3zAfAiEAm29xhOGQvSnvjLt6lPNuejq3GdM0Hbgs923gUINNVLA%3D/file/index.m3u8
 1Yes News,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-Raj News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504040/ei/SDh9Zr3GI9bZsfIPhPC3kAs/ip/20.172.5.35/id/cijp35DALss.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8LIPrUzR3gifd3OhddJJ-dt8s72Zq3Z7W6N0-qpxvpwrk6nfFr-TUF-pM8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPqKIQVuaIYgj-lJGnoz1TTu8-yJ9DEiOTqF2bariVSOAiBk8fX78oPD8GXOuLN3ibc6O63QKReAzjOyHLowActoUQ%3D%3D/file/index.m3u8
-NewsJ,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504041/ei/STh9Zuj9AcS-sfIPn4SFiAE/ip/20.172.5.35/id/lQyUMvyJj5I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6CsZc4Dvnd7NU6vd4uzmQXu-3-3gC1-20uah5c2t45Qgjy9RgVxhNxm__U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJKOV-Z7J-AqSiPnFNbvKtc_2xugsOy2m1XSsOUT2XtbAiBS-2D952ECpNo_jay-0cLjo02YqBwzOiQCMFamWoahTA%3D%3D/file/index.m3u8
-Jaya Plus,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504041/ei/STh9ZoTqHP-KsfIP7oWY0Aw/ip/20.172.5.35/id/t2LRStUtLN8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw9k1_p6qz48P0AaeiXpWuLpWycgA2SAIS9lJ_jACVgxCRBDSQJxgQvGdjY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXYagY6b0dq0q6v-bVVO-kph2zl-sucg_-L9fCtrSdaoCIQDimi4ndpekHY0FDzfTN6b0XrrBer_0kBE6bw8uxumVtg%3D%3D/file/index.m3u8
-Kalaignar News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504042/ei/STh9Zt-9Ou-ZsfIP6riHuA4/ip/20.172.5.35/id/yxVo5zANRZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwPPO4hli5RDJgT-Zh-GSl-10xd-sxK_GlCSwvXVUzi754XsQ8nLnApCJ-k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIVD4roX5BSkctrxUQvuE_TznEVbORTeknTWMwhQr9sCAiBheEqOL7stLr5nsochrQE8PhZait6kIz29JDP2EGkEcg%3D%3D/file/index.m3u8
+Raj News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511252/ei/dFR9Zp_nApGAkucP5dO64Ao/ip/74.249.13.141/id/cijp35DALss.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f839TC2FpuX5HewpGwyC6cDr3JxCSfsYhKeX16D5PL57gIVRGTNV6220JOU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIHd4N9_GFbDuLWDV3Iu54mxOrbj-T7YNdUTVWiplQ0iAiBwd1vQ5TGMDszCO7j4dIxwVe6o5pBwVEQavK4btN-ozQ%3D%3D/file/index.m3u8
+NewsJ,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511252/ei/dFR9ZuDKJdmykucP8PuK8AQ/ip/74.249.13.141/id/L0a177kCMvo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7ghXV_r927_IsYekYMwJOtE_IDRVwYG3-m8P7ftPfvMRs7J2oBNK2j6Y6g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVE0GOu0rwkGM7ayqeQH972XKZfU3IqhT2GUDg7OZncUCIQCekVaBqdiZS9i1845dqceVrjP1hj2FR8Nlk21_tFKo4g%3D%3D/file/index.m3u8
+Jaya Plus,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511253/ei/dVR9ZpfACLeHkucPkeO9iA4/ip/74.249.13.141/id/t2LRStUtLN8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2al1Zk5N2OUetUec6Yod4mSCoLg4bLEASvu6dk77aFnWCnvf_uAJWx3mWE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKq6xGDkdSCH7vkI4qEaxA0eT7MPOGua8W5gsIc7PxoYAiB78Esp5sUpApI7JzPBNvjbqRqSSyqGlcUY2_FGNeCg3g%3D%3D/file/index.m3u8
+Kalaignar News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511253/ei/dVR9ZovFIKqHkucP_L-D0A4/ip/74.249.13.141/id/yxVo5zANRZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_quWug9SogJfpWa-HjTyActztNzMXXpN4xCV0IRFNu7kHNPVhObroflPT8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMVDV24lpGJoyfMVofp-8gKAQaFexYK4qC4TJQ44r4t6AiEA69PFndSILAn50ui8p2QLDbuLsv20Kay7ncCwLP3pYZ8%3D/file/index.m3u8
 Captain News,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-Zee Tamil News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504043/ei/Szh9Zpa6L8K5sfIP94qdgAE/ip/20.172.5.35/id/ZXAC2PHKwq0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1DkA7UnmgPKyv0iYYtEMpHsdZ5tL3v6lT1JgdgRQdv7_cdy1SRFT1VOmwM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKRQ3X2lgt5UJtQXQNrPosaBVps31BTnDOCPrz5cXjLiAiBmgK_IjWTb0U-CxnAAJh3N9TIOFl44gV7kC_9nEmwjmg%3D%3D/file/index.m3u8
-Chanakyaa,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504044/ei/TDh9Zt-iI6aWsfIP0KS9mAw/ip/20.172.5.35/id/gF199Li6Tj0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyN3IKso_mKLdmjc4096DwDLQxmkDldXEV0owM4uFp84zoZcFEggqiK5pZs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJIPbjb5czdCM40k4nd2ahoXlYdZZzoi84mOPe5h06aIAiEAn4qcrf09T4BCH-pcEz5JkT4L8V-UWkyA9jfLil35n1A%3D/file/index.m3u8
-Britain Tamil Bhakthi,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504045/ei/TTh9ZtSYCvPbsfIPsbCKSA/ip/20.172.5.35/id/W6UCQo6ZJDI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3qJCkj08I1nH0GqfEPOsGm33T7NY0oWJDdbCjHsVG8TdbPYCPTuqs_pIjM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM0QpZV-Hc60WBkcdTYBHyjW1aByl9DnjcyNFPX8DpzoCIHvHAj0NMakTWvZ1yK5fqUEZzNTgaXui47R8oxIW5xvG/file/index.m3u8
-NDTV 24*7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504045/ei/TTh9ZoroKNHnsfIPla6IuAw/ip/20.172.5.35/id/aH8_hW321Sc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzEtA87j9B7Rj2usyIcmOXG57M6Spc0EvmEwBPew8f-eYupJsHHp7Zoya5E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHhI3gaS0T9NaidQBQsdKjxVkoqAo_dAc4qnkcPo1Wm4CIQChkYe2X1-HfBX8rlXw0ktDFC3ZBwYNG04zcXRcNZ9bMQ%3D%3D/file/index.m3u8
-Republic World,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504046/ei/Tjh9ZoqbHLXmsfIPzL-8iAE/ip/20.172.5.35/id/MS3N8yDVqg8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzwBA5bEnx6OBrMOpyxS2pMztwMoQ9_4HQdG4oJGbvlJepy_6DMF3Nb2oCc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI3nr98cJgBzrIbXGVN1vSkzULffcu-xwHCpmbUeQiqkAiEA2pr0g7RonEfA1YesbaDKZpQKVKB5q4cnErnda2GwxkE%3D/file/index.m3u8
-DW News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504047/ei/Tzh9ZrmVAYb3sfIPmr61iAs/ip/20.172.5.35/id/tZT2MCYu6Zw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwoUA6h-jXGnuo1MC-n_KIAR-jlFV2F9azN3-3Lmjix6QSNkr-r3j3jJCXI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBw9lg5-CxGm6XEw6TsB1NhvS42iKDbbCiiyr3QKc2s8CIAzCu1HDJkkwdTw-98aJjnDfL8Q_DMYaQ-MtIyAE3I2s/file/index.m3u8
-WION,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504047/ei/Tzh9ZoriHoSKsfIPpf2J8Ao/ip/20.172.5.35/id/AXhwKOpJGWQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-hYqb_jtFzv7wq59pJeC-p-WJdnLxsJkdkiDKudqZDx1nSCBXSOn3i6z2I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQUCTJ9UZtX0H6hIsd1Q-9gP1XzvXj_YQ95g6pWi1lB8CIQDPqSrXfBskQOZY_jv8Eo-SzHR1_5jG-JPTJbtl6Lbsaw%3D%3D/file/index.m3u8
-CGTN Europe,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504048/ei/UDh9ZoPsEu7psfIPjMy1qAg/ip/20.172.5.35/id/fembOw7Ib2Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2wdQIDfKZsz5PC3aLiW608ZhD_nCCwYzggqpo7JIBIVpKBd01r6L-NYkOQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJdWyVWrTR3n5F1UEVV1F0wRZXgkc36pPpQ_VmVXMnxUCIH1ZnLlvn0orc7CR2RM04A5NIu_bYHcPdWrnmzKY4fl_/file/index.m3u8
-FRANCE 24 English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504048/ei/UDh9ZpHlK-LFsfIPx-WcQA/ip/20.172.5.35/id/Ap-UM1O9RBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-lAgw_iQZQlw5impzXQrDzFbrPyrhC-lFCm_T6ftXAHq-Un_6EJx5DAGE8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcvvnUTNl3gzVa5tdFSi06VLMQwla0BLM0PELB8oB6gYCIBC0NwQuYmUF_cIx_UXfJRqd2wapuN6G2APZIRI997du/file/index.m3u8
-ABC News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504049/ei/UTh9ZqvgHvPNsfIPq7iQiAY/ip/20.172.5.35/id/Fb2DKjMqH9s.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f4dWfMJKlBBnjNNgy5KhJMOpoIA2QSLqvbb0d2SGcEt9ysq9EGDVVMBIT0M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANhTPEz-wO8-ztZj1xzV9wP6Ud0MgN_Xav3u7fBINAPpAiEA8tiYolXA2tbEZmkBEWFjU4Gf7z-B0wWgnVA5m64ITb0%3D/file/index.m3u8
-TRT World,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504050/ei/Ujh9ZoDIC-yBsfIPp8O44A0/ip/20.172.5.35/id/5VF4aor94gw.1974/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f84GmSfgSCUOwirPgo9Yrjn2ela5O3gJWPRtcg6uHAn0PCef_bbobgK1cnc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIAF9hHzd0XA-9U_Cmk6RDGvwcaRi2UOLJeURFgimSIYAiAlP03tuVdc2H8gh40wH-q2OoUFq1wAJTy3sz841arBBw%3D%3D/file/index.m3u8
-Al Jazeera English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504050/ei/Ujh9ZsnWJY75sfIPnuKXoAI/ip/20.172.5.35/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyIthiFz9XqfY61ATVxDqbwa5dviRjzMPQBVcHz5Zk3ZrDo8dpgvRH3WvJA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKlC0JBaZFZdtRUkEBYFAufJtXjkhzcTHlnrEJZqBhQsCIFLRQdWPhghNQ2H7C6Y3caY3RRYy4WNp9S-b4DjGHj3l/file/index.m3u8
-WPLG Local 10,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504051/ei/Uzh9ZpK9CKDSsfIPuKytiAE/ip/20.172.5.35/id/1Ypv0ebfGBo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxZQhKxRFtsDgt6Kr6Wy_jyCP4b92eW4tKL-zj1pHNyfyF3-O5AHH16KcqU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOdW0cBeX_4bc3YHe-SiQqz5ngvh8SCvB98kb3N-5eEQAiEAl8yDhcfAfPb8t0eHDar2u0TQQ7AjF3DWVCKJ03DdeOI%3D/file/index.m3u8
+Zee Tamil News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511255/ei/d1R9ZomiFJWHkucP-KG88Ak/ip/74.249.13.141/id/ZXAC2PHKwq0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2XsYOqNa3I1eIDI1u759PoLjxcWaigRT9hjs6HK6DsEdcSkkwy5oGoCRuQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgANEd6-rS-EZvKVkDh21Dpf4ezfgiagy3Jc5VUXJrlmcCIFa8GoCq7CW2sYhjonMs_0eW4MWO_y7aCCPJaWn6mptk/file/index.m3u8
+Chanakyaa,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511255/ei/d1R9ZpKLNdm2kucP0P2g2AY/ip/74.249.13.141/id/6YhF8yq4yrk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f20IavwQKUxUxKQ61kNE3ukXZdfF8SAIFZXIEqEKdb2MjkLumFZXvCnH30s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdMfMcD9ZywiWi-9C-Z-qphTU0aPmhPLDUM-b_BRJzJ0CIQDvej3XOkr9WruTjFCVOCsLGDL6HRudxXjOmnirOVr3EA%3D%3D/file/index.m3u8
+Britain Tamil Bhakthi,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+NDTV 24*7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511257/ei/eVR9ZuKSG86IkucPnbWQoAE/ip/74.249.13.141/id/46zzxB7iZQI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxBpGsDBk7lDJARRZyCqdXZJT3FgKyRJnFWEPCovQVZGU5sTQDrvKqspYcM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgF-6RNBdyc5atS50mP1sn-K4T0uICqeuQqsZ393VZhscCIDaqeGO-W-t7xtQu2qv-YFRlxSV7F7xjerv1MPV8eMZa/file/index.m3u8
+Republic World,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511257/ei/eVR9ZuTFN8eokucP2s6i8A8/ip/74.249.13.141/id/iv2WIxWvnNA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Kh89ij9TVMtshcY1D-QSeWhH7eyCkuuZqditiHsy6OvSZEwWswracoBvk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALP1UGJIv9hy_Z55n7-oqaKmv6zxXpLltrUHbHmLy30jAiAfOgPtMjYG5ivf3HB6TQJul-lVYQyJAv5V1btgyX7V9w%3D%3D/file/index.m3u8
+DW News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511258/ei/elR9ZrK7EcGKkucP44i0mAQ/ip/74.249.13.141/id/tZT2MCYu6Zw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7nxFxlKtPdvlCKfR9ba3czYVdIWpsDKiYr5iL-4Hq8WL05GiCIFU0eIbi8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJyAmdD34EeKY-8cs09yw3_tyQzE8eLgnKCGyOuOKVBYCIQCaG87YtV5USHt5iyeKNru7YzopstmESZQicwf-B4IYlA%3D%3D/file/index.m3u8
+WION,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511258/ei/elR9ZoOlM860kucPseWceA/ip/74.249.13.141/id/aQY-xRmEwz4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-xCr5bV2qyWbo9o2wRSr0YIfuuGO_knWRP2DVt7d4t3e4SIJz4pOodrtdU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbkuMwvd4ztwdT6T1Kz_09fEE4YtAaqg-OoHLLrK8SzACIQDOz5mDZ_GFK4q1FPoFV-kV-O0lY75udJqkH5mK3_8_yA%3D%3D/file/index.m3u8
+CGTN Europe,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511259/ei/e1R9Zvr3E_2okucPk8eIOA/ip/74.249.13.141/id/bh7fzuNAx48.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwvjrElZdRetv8yUXOzNYVZkpAqYnJz7NLOaO7qJ1IpnbwFNoNyWqS5mreg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOHylKTbWRfoRIyv_a6FoqEC_yjYwu2r6oeEo-g6ZHbYAiAsm3ayhlzElR7W19yx0c8GWLzdq8EkajIB37GW4qDgHw%3D%3D/file/index.m3u8
+FRANCE 24 English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511259/ei/e1R9ZpWTK4OzkucP-42y8AI/ip/74.249.13.141/id/Ap-UM1O9RBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f23JI7qLCXXM7rcA7Ax46_CNijEbLNnY0XL4fnU6xOzTPSUp-aXXlMu2rL0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI9TkZ-6CPNSro0hBmrdwIuofdQNI804-Zt5cQAr1AeIAiEAl55bwIwF03jHuphu8J_szNnWI-Xa4hsidH_TmiaabTE%3D/file/index.m3u8
+ABC News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511260/ei/fFR9ZsmPDe6HkucP2u6RuAE/ip/74.249.13.141/id/Fb2DKjMqH9s.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f9wQy5sjbXLxXRWFa6xTjyTHED4GviLgTRGa96iCXLFFBipJpK2v5NQunPA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKNRFLpdArJCIpZqlIkJNkrrbyttct7pkq8TMpFto243AiAPQZDpHewiL-l6-MKwvjqOxJlBJG1uujfThl9KLBxsqQ%3D%3D/file/index.m3u8
+TRT World,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511260/ei/fFR9ZuXyLL-LkucPou2-qAk/ip/74.249.13.141/id/5VF4aor94gw.1974/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8Uh2iO-oC6FGUlMPjlvGgZtuOqfj7n93Q4HT43j0_jViLToHjDPl17jUg4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOIvFRtU80C7_amp9x00ilvKaDbMHWTzvkfFatamvcYoCICBzdIqnIKefZfGHEkQ63JC4xIXoFVeN608izLbn-YOv/file/index.m3u8
+Al Jazeera English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511261/ei/fVR9ZtSBE7CGkucPyIKpoAs/ip/74.249.13.141/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_RA5onTf_8EdSO3E-vsy8wA8Gesxg05cbZ-N1UMQwPT4VA_tenCMzz1CGM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgH8TBINhXRH8MwKx1u71Vk9ga--luvsv8rjaZbj3MvtICIDiE39OEwTkoRjp_6YT2yRx4EeM8zKXUOqcQFDOGsKLq/file/index.m3u8
+WPLG Local 10,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511261/ei/fVR9Ztn_OIiGkucPwueXqAw/ip/74.249.13.141/id/1Ypv0ebfGBo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5v7w86nzGU0qpZpDEuJEx-_ZxcX_uHxtba31FMxfzeng9u7YR3-Lhk_Itc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM_kbIXwKTJMAYZEKGTXWTujqAsBlI3EZCqlOIdT6u0KAiBV3YnaDb7ioS6C9wqBANEmvMC974YDd1beRtUYGiMK3A%3D%3D/file/index.m3u8
 News 12 New York,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-United Nations,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504052/ei/VDh9ZqrRCf7BsfIPuuGzoAI/ip/20.172.5.35/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4-6nOLft_n7OhWd90F7GUaBLX24EynX9qGCHHY4ayvbzrmHqvdjm2Zbo1A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPT3Zjx4W-ERGoyrfvvLtsAko0upJgMsJxzs2vD6ouXjAiEAwSsE3_sjWRhEhyQUxOVMj5QYMn6S3dutB2SVadOKt7o%3D/file/index.m3u8
-GBNews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504052/ei/VDh9ZsX3JLjasfIPvteXyAw/ip/20.172.5.35/id/BOB-EYyLUPY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1WBHD9JKMhmGrUmW99PSmexMfEpFOEN1TPvb2yQ1Nes5LJFLjxcedGpTUM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMXlj3VddPF8-305oqP_d1psRhzckwQ8o2SuESG1hlLDAiEA7WpBDp3TyoHlA0Y2ANK-0TJssHaHoYilf7EDZaOJFoY%3D/file/index.m3u8
-ABC News (Australia),https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504053/ei/VTh9ZvbPBILcsfIPq_ikiAE/ip/20.172.5.35/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2PZ6_5HXLPIXr4Qf5YuaJ8Zwus5tlEf7SF0QOzNVmL9aJXvbRjlVqtfX6c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNPVwxXKAJxSfHBz3uzzdgBx-inNVCUpT2bFdYWMzWd8CIGksEvKQSdIi8brMmMNBwW1tqV-kIJgvpiAvZdE_8PO6/file/index.m3u8
-Newsmax TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504053/ei/VTh9ZpSWIbT1sfIP6uaV0AI/ip/20.172.5.35/id/vZ0YOm__YJc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-x8QppaLnIByMZH1KAYpwaHY5FZGI_qjRNYuLnmcn0cUPb6yB-xao__3u8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOtiPc7Q5H7e_SnWAMHUo-LZ_BmQxtt0ktBwqx-BaEaECIHqavDvdJnjtS-OYHdCIAXaOYYYdWnv6sITDY8cSVOPk/file/index.m3u8
-NBC News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504054/ei/Vjh9ZrFMnMWx8g-Q76CIBw/ip/20.172.5.35/id/IqrfanwsKQs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6khcACyxC9hmqjPoeXt73x7bsoBC8At8o2TnwPOVVsHTK_lo1A4fZb3oZM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIBR_u-8ZEciiXNxMjdjES2UqpzJjFXQHCCgNv7fIL6wCIQDJMiiCcN6hm2KIMlBNt3hgxrCPlUfjGw-G4m3WA3PRMQ%3D%3D/file/index.m3u8
-africanews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504054/ei/Vjh9ZpSfHZn4sfIPzryriAE/ip/20.172.5.35/id/NQjabLGdP5g.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4d2jKlPFLr9ppwDBj2in0jaSDmMYjrjJxUq7Y0tvO2sQTvTWkAgQx5t-7k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJXOszkVIgiEVOw2-EebtbFcsaJ-3Aw46jhQL35J8MmgAiBlFOVbMyFvOS8NGWMYmyjAowma4ecupEpPbdUWbXSO-A%3D%3D/file/index.m3u8
-NewsX,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504054/ei/Vjh9ZrPrNtDjsfIPuo3YgAw/ip/20.172.5.35/id/WHb8cotFcXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyLPi5ajHwEQK4HLqgcP6Xlk1jq3IWum69WWKFzJ4RjHS_UPoL_0eEKrUdA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgc5k-Y2nlxiCpkGKl63vCIvm0xUVzwv4IW1kOXQNlmEQCIQCKxT5RScyjxhQKwzbbPrBHQLemNbiIcIPAuByBlCW0-A%3D%3D/file/index.m3u8
-NHK WORLD-JAPAN,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504055/ei/Vzh9ZtTSEZv2sfIP06ef2Ag/ip/20.172.5.35/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fywfkc1DNwBcJlKQeLKUGk9QF3T0mLaZk3ueTQSypGy9xlQIWRX24RloZxc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWD15lBraanaSFTqPVGD0CI_1o1IYJlXIE7O3aX8kndoCIQDNTPjJ4sGstOmJMrJkfxGyLFZh97wiH1GGDFPPi1mvBA%3D%3D/file/index.m3u8
-Yahoo Finance,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504055/ei/Vzh9Zpr5L861sfIP4PqS8Ao/ip/20.172.5.35/id/OAHHA27td-A.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f521jMBXAoDaoC8MgomgEd2_o5cBcXFQqDjZ1Hq88nWgoC4gicd7HyupYag/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK8OmcfRxjjtqdbPZFM_YNSdegMuKl-tTxPb_a3yBqrAAiEAm8uF1Ig1gxr0mAs1qCp4PX9oDzJ_CjWXi2-2pndo7-8%3D/file/index.m3u8
-DD NEWS 24X7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504056/ei/WDh9ZtOzFb6psfIPm5ed0Aw/ip/20.172.5.35/id/NHwUqZ7Ycms.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0CG2iB1mUwJO3ikfx2H1IpmWMaTufC-ZC79g4WKMT4cqTdmyI2V-lAJchw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANYoT-A3uf24cNicF8qnSZkdVRpJP9p3hfaTkfjfnUcVAiEAqU69TEtdPGRBtxewq8h_bKayQLaW0EtclBeY-_z_X0I%3D/file/index.m3u8
-CNBC Awaaz,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504056/ei/WDh9ZqDXMvvssfIPxYvXuQw/ip/20.172.5.35/id/CPQZ8_sHrhQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4f2v2OvIRa9JjVMW68abZjji8KgPDSLDHrE8QL2-ulDyeJf2dUjS9u8u24/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMXSXPpk6p2xBh51zjIeMwswc-MQH7Z8oBK6csmLAmKEAiBUKcBWYRlthR6Vuug-0QKu_t6UX9wo34Y6XsDmJOtAiA%3D%3D/file/index.m3u8
-Zee Hindustan,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504057/ei/WTh9ZpGHGbS9sfIPms-d0Ak/ip/20.172.5.35/id/Nv0CfjMSTCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5jeInKT221rc03rTNXhRKfNFTlDBw56Dz6tCgrEfVreZDyKuVX_qyL-f6U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaS-mAG4Cx5czkKW8eSfm_7wCMphXU6vwgrTUih4laUACIQCJapbf0GbDO8mKDdQlXK8XeHO9npRX_hVQnyW-FpPlxw%3D%3D/file/index.m3u8
-IndiaTV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504057/ei/WTh9ZtfhNqHWsfIP19SPuA0/ip/20.172.5.35/id/7pfTCxqmdtY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy8IqGbdM2YRbdwIL4m-56R0PFcOP6c3-pX0Nibw1cOAHRuI29PQAxluF1o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIyn-ZVtkbt01qMEj_3NKNJ0c9Nk_C2b7wETNYF1MAL4CIQDEFpPLu7repx2nwjB_1GZ_uDcD3Czq4SJMIXh3WUaT_w%3D%3D/file/index.m3u8
-Republic Bharat,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504058/ei/Wjh9ZpSOFYH3sfIP3KyyoAI/ip/20.172.5.35/id/tpO0PuVm8qQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_2djt-_0Kt3C1CfKtu38yYZF7JPZXB-ex4L8y-nvfqqL5EM3S04hVai7NU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIJ3LALer9VU8c4SW5-z-6o6RwLwtg-ocjfxdcKsMTYWAiEA6i0PUqwN_Bror60PcRzQL0i_yVC4oBtlNwCchqf39Sc%3D/file/index.m3u8
-NDTV India,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504058/ei/Wjh9ZruBNsuRsfIPrM6zqAE/ip/20.172.5.35/id/len87gFWr5A.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2WGThjViI0-lxZmS5ZmionZN4UudWBbfkVRLXhTF2cZUWZL5aDatpoOvUw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTVsMXw686lwAr-dgLpPYr0_AUCDWxWCJV1aFcw7UnKACIQCKqhISzKpOaVTzP-BwadoDEXVzMxJUWac_ojbn_lpkQQ%3D%3D/file/index.m3u8
-ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504059/ei/Wzh9Zo32Fa-lsfIPs86myAo/ip/20.172.5.35/id/3j48K61XBJY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0EF-BZQrDeoeuHdTMCH1WyQI3t2aLgaL60gPhnw7bqvVaLyZ7Bs2rgS3Mw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIjo7YDiDRukkVRpVZ690tO2FZq4LZHRWBtJmUVDMPObAiEA04h3kww9uyloHtHtWGjRVTwOaKVA94eaCxGlmGHsTT0%3D/file/index.m3u8
-Zee News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504059/ei/Wzh9ZpSVNIaRsfIPvauIwA0/ip/20.172.5.35/id/6dsXxcNoSIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f70pR4X9Ft_xqxXAvDgRS8MG_2Rh9cbpqnMORq1avHkkTGw0srBPs9b8oF4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgS_aAQdWElS9br-JlV531qh_igUgrbG9vpgvencv7nUYCIBRdmaTw48UcN8ihZc0TXBGiviIoMsqcdazYaVvakpRw/file/index.m3u8
-News18 India,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504060/ei/XDh9ZtnJE_WqsfIPqMeagAE/ip/20.172.5.35/id/DTwl27T7hDg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyYQqw4dfwTZXu1bnMs-vAnNcef78iTnPozDzs2AQ1nHynkHeGw9_C06rjk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALKsWs1gLc8OTfPoHETaAQa27RjTiV3sLdDzuPuGvIc_AiABJWmVVzFMSsXdyp_vUXQydkQNBjq63wcAU0wShRKLyA%3D%3D/file/index.m3u8
-Franceinfo,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504060/ei/XDh9ZqO8LsnMsfIPhJGeYA/ip/20.172.5.35/id/Z-Nwo-ypKtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f-6EkkdX09a4xh9lbTw-ytq999p-ikuUewG-TOQPnnLh_6gWT6sIF8B5r1E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMnSLjyf8ADtcAaLZZLW7vTCQhuAG-wUMmXJfNinEAySAiADRbq9Z5fw8MuWJ_kJ6lzFdK5qLikutaR2vYBsqcZ-qQ%3D%3D/file/index.m3u8
-FRANCE 24 French,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504061/ei/XTh9ZsCuDpGusfIP0KeB6Ag/ip/20.172.5.35/id/l8PMl7tUDIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyM_8TtWuXcu4cjfUIfQHvv0mA8HQZ_f53Balq177jnnMod1_vgUkvine5o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIP_P5KOzSpgr4gGzlfxPsnX4XZYLQ2o-y1qzHZCWu0sCICP8NpPbMAIt3QWHvJMGjd9ylhCEDe7wydeRs64kVTWh/file/index.m3u8
-africanews (en français),https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504061/ei/XTh9ZpqoKZ3CsfIPxt6swAw/ip/20.172.5.35/id/b6R9-7KZ8YM.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxuAO16fJYOWGsEgZqFaG4VRb0Bjx10nkDDQax3589FV_d_oETFYrPoEjNw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOmg8lkfgE1BzGeTokXu-vBi7Dw3AsBypmmjbq0fGSYvAiBc__NPISLD0XaD4MFvjP8rVbAicefRONxAtfK-0fWiZw%3D%3D/file/index.m3u8
+United Nations,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511262/ei/flR9ZubgNcC1kucP3Jy-yAs/ip/74.249.13.141/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9UdyXen4wH4rMv9ASlD6ZvXyXVxYW8QwlthtLDncOSliRkDB2IBh92tSdE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTOScP7bZSZ0x6Ztoy8OBq1LIomsJtETzTCIe-YoGfFkCIQDiaeNXMDh-0y_rJDnIpDYuM3-4PoK_T7O5oVJ6tHdYgg%3D%3D/file/index.m3u8
+GBNews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511263/ei/f1R9ZurWEq-CkucP5Iy38AE/ip/74.249.13.141/id/TH49-PKjCXw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2tsKH519d9hgqrwlt22Rtbap68GD0ozuy0Ir8k86QIHPfOoS76t5z9_87s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIP830RK6vvIHIx44prH88lBXZqFF9-Oux11ZPQi5E50CIQDUjWaAkzz4B3vMYxVjgjMXCWTUgRt3H4ENqNk32ioR8Q%3D%3D/file/index.m3u8
+ABC News (Australia),https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511263/ei/f1R9ZpyWLPKSkucP1e-Q-A8/ip/74.249.13.141/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1NQ7ZLaRgmLc9NA8JadlrkAEtT4Mf0Q6s5GshwuUFgg2ga7Nxi8rOToKU8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKFjyq3aVY8Npkgzv8Hld0eTf2h0bncL0XG2IgC5lfq0CIChxoB8nGHcgalIRiBts3MF96_a57BhmWuvh-TZA_BOw/file/index.m3u8
+Newsmax TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511264/ei/gFR9ZtnFEbyNkucPjYioyAw/ip/74.249.13.141/id/vZ0YOm__YJc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_VhL5zeE0lt_48BoJo8iFx2CR-FiHBqwNT6mL-dfEkGqv089zv3rBzV2uQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPGkCOuC0Zk5yvuWe2WtZsr7wRRPh6OdH9zT2RohXVwiAiEAysQStIKDMddM39er2EyG8CD7yQr9DxKENHsYO7tPnNw%3D/file/index.m3u8
+NBC News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511264/ei/gFR9ZoaUNbKLkucP7Nyl0AE/ip/74.249.13.141/id/0xNX6QG1N6o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3AILtz99N7cduAWjb6pCsPSsYAog1JdcKNyuIt5jp3_M7CPQo5om7-40JQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJwYcey5WWrHaX7KHl1b_Lped0S_e1b-aQa_6MT79Y5oAiA0k23PUly6j1CfQh7rTd6S6aeraOARu5wskw7PnpzgyQ%3D%3D/file/index.m3u8
+africanews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511265/ei/gVR9ZuHqGJWDkucPtMWkiA4/ip/74.249.13.141/id/NQjabLGdP5g.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4_mBKxIksIuLIrptM6axHEj2W24LSGrj2thRHNHvLpjJrS31wOppgPldH0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIXighytS6BIawIqxJ165sfRAuQlD2luobfjgXw7m48cCIFHlDvVHoSCyTwlky_H9hX_BIAomfvhkaKer1j1oMo9u/file/index.m3u8
+NewsX,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511265/ei/gVR9Zon-NoKJkucPlOae-AE/ip/74.249.13.141/id/WHb8cotFcXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2ZZyQJs1q-0Ds6d4jlfvIqYh8k7Tfougd232zcIx7Co_EkDp3lSbcp4t5o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANKknjaNLS6jsWcfoMNjrrc9jdujie2vu5wg2JOiGX67AiAqZ0iHLBqFV0DEbm-SglSiaE2pkYJTx3xE9xCj6dWHDw%3D%3D/file/index.m3u8
+NHK WORLD-JAPAN,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511266/ei/glR9Zv77FN20kucP2bukyAs/ip/74.249.13.141/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9_NhaomsyPlXxsP0KvKzMdtVwlkk3va1hamquKrnUcNjQcPjH-ECQXE_Kk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM06WTqNviZM4moOp77Q662TzpEveREaOO437Pd-GOFPAiEA7rZP7HN-jwlEC-aym8-RCdKSKpRIY5TTfzxAr7TXjsU%3D/file/index.m3u8
+Yahoo Finance,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511266/ei/glR9Zt2PNO6TkucPsaWK2A4/ip/74.249.13.141/id/OAHHA27td-A.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f3Mnq7xkh3pqpFI1WIr6NmVH2GuZsabon7V2nhOvrd9KiLU8t-0ukdfoUYo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP46xPWPCqcU4_y6CASL1SyoGEuiKG6cJiZcqjXb3YH3AiEAhrpfoqYBb968EdhGUEG04_JhmyoIIfFHQNAXPEcV4So%3D/file/index.m3u8
+DD NEWS 24X7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511267/ei/g1R9ZpjwGumHkucPq5yz2AE/ip/74.249.13.141/id/5c_6tq8x7NY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyxvTerDtMNSNdpcAgSPA2E2QeizG_J6c_kmIx8Lm8QaeTx1Ffwlztntj7Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJOKZ0TCdtHlPW0nNka6ZRTNywZV5tQT2jVhGI1s1E1KAiEAkdjcRZu3O68pEtBQagousdUAOwaMllRxJWHmLe-0A4I%3D/file/index.m3u8
+CNBC Awaaz,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511267/ei/g1R9ZpiSOKe2kucPqdm6wAI/ip/74.249.13.141/id/VAKBOFMO1P4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f38vVzOkv74wqM-1XDG_x4k86peekFyP2Ub5K4LqllUE1CegUcLpfRweca4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVm6rCLW_pwKM1pErA4SdT6w1kM2umfy5jxG9cdqiAO0CIQCZvt-jw0MkGENUlAAIeDVLTmAZG8aYQj0_snQu1WMgcw%3D%3D/file/index.m3u8
+Zee Hindustan,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+IndiaTV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511269/ei/hVR9ZsD5BLWKkucPspavmAE/ip/74.249.13.141/id/pstxREoAMxg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwvw4_R5fqqym9JA3qSs6kg-DsuiNMC525_84c9vXK_Z00I4_1pBSINmm1M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM5a9mIihfCcFSQP3g8gmZYKYEq0R-oHBkRAJb-lJs8tAiARyuk836kWpFAhkhyBxppI4v_18hABBYx5Jv_2294GDw%3D%3D/file/index.m3u8
+Republic Bharat,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511269/ei/hVR9ZojuKP2KkucPk-aBkAo/ip/74.249.13.141/id/Q_SPdmjp43g.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f54YyzhDF3ORTQLiLqr1DXv5bNebVRrbUsfAcsW1M1tjPbiGKSfT2q3W7nw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOrJqa0kRjKpTcNyOavYCfGe6MSRZFaHHDfyK3qLBMw4CIDBgnjFLmzweVZH-rq1C1cYkxoFsPkDELvZ1AIS5ZH6P/file/index.m3u8
+NDTV India,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511270/ei/hlR9ZqGeBeqJkucPrLij2A8/ip/74.249.13.141/id/VsBxBeW-0uY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5pXIp2EP2Zko-dUnOHPOU1_GYPaMyGb3Mx3l8kebYhz9WyIUndtNY6Ppwc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMNKSjdbwoji6xuf5NCko0cuH5aSwSxfkgXNNuWAUOTVAiAE84qDgIpvlNHWntQ3lzV1HogzHLMYpY6BU_Up5pjeYg%3D%3D/file/index.m3u8
+ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511270/ei/hlR9Zu6cJNWEkucPqLKRkAQ/ip/74.249.13.141/id/lA8qh8sd0Lg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_8vSAbnyfvfvyLsNYfC5CerMd3xGyfnxvKGtae0ztAiPXEce5CnssiptTs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMYrlgjveMYggNqTgowmnxf-3rv4JW9qvQCiUbJlMWQoCIDEe-Nw55seou9WOg-9q24liLhhFUEPkvlPQ6osgQyed/file/index.m3u8
+Zee News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511271/ei/h1R9Zq-SAqKBkucPvIOwyAs/ip/74.249.13.141/id/Ky_VObwLxG4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_IyMfJ86of1ogg3trdSX7jjyC2-XCuElyoiFjeknPFuWg7hNRd-Z0jeBe0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALRabZH72o-ePvfl0IQ39JGIkX55Cb-z5qRwqDBci87pAiAjYnZL3l3N57c6oYnwBHs7ilbrbHaWhmuNJ2PF8Jg9nw%3D%3D/file/index.m3u8
+News18 India,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511271/ei/h1R9ZvnqHOmFkucP5bKp8Ak/ip/74.249.13.141/id/Z7ilyHFf71I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_tcBxyycN_oX6lYV8ta7bosbvPBG8_2MSZC1eerqEZf6owQx9bx1oigpzo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIcNk5a957tw7ek3uAQ8D0fOWgJjTS48NmWv07cqonIYCIQCLeeeQs89JtpVESugCpdM12Lie-HCTlb7giGO_eBaZiQ%3D%3D/file/index.m3u8
+Franceinfo,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511271/ei/h1R9ZpKrN62BkucP1-uUoAQ/ip/74.249.13.141/id/Z-Nwo-ypKtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f20Xi009EfscFP5_mmCxPZvWTfv6VHnqX6sOK0yjLGUHA4WbItdPihNHSVY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJ-I1Wz8J3wsBCDTNPBEamApvp8AMAd8LncD4euOCNiYCIQCLflwfQ6Oi6HxguTaCrcYtWZgHviVgeIl8d7IHBtIJoA%3D%3D/file/index.m3u8
+FRANCE 24 French,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511272/ei/iFR9ZsyDFeOHkucPxdO_qAM/ip/74.249.13.141/id/l8PMl7tUDIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f55BwG79oI598_VDjOOcVhbnAM3H5UFjeQl6gdxd9l_CFaGoM4XYFSKMHsw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANP4vn6xyQdTNtF0l9Qxzwb9CobK-bORW5oWnSHBoi_UAiBqCpDUSnpPv2rImijtGWH-zJkR0Hfu15BMqI6hs1sd4g%3D%3D/file/index.m3u8
+africanews (en français),https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511272/ei/iFR9ZpSzMZaLkucP3LyDgAU/ip/74.249.13.141/id/b6R9-7KZ8YM.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-Ryf82zjuirAAJ2ell2JHnVfjwpj1SZgV6PsvPWhE4H5Elmii962EO6Tao/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEpLh7iGW-iZep0ICz21VppG4VCzmdV3jo2vqgQFZqbACIQD_ornCTYCJHxkSdsUrIXa2O4XOBwlfNQ4DfeChYTNUlA%3D%3D/file/index.m3u8
 euronews (en français),https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-asianetnews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504063/ei/Xzh9ZumUIIqSsfIP4bK7yA4/ip/20.172.5.35/id/Ko18SgceYX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1SBT3sfqTJZcHvn9MzgtpG9X-QGFw47GvAQK5lPxRradax0bcZxETUktfg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJJamaRqBFulX7RA-b8QJ5mmlXOjeqJZAPvhl5LfwnBkCIQCrlNIHcX3kY53awrKRYZTr2fPvHmWGB3-0SH_6G19oYQ%3D%3D/file/index.m3u8
-Manorama News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504064/ei/YDh9ZoWhC_vGsfIPxZaqaA/ip/20.172.5.35/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7h786XvJWAnmH9TfUIPnD6Kysc_srIORO6HJ6FRvhcpKeMLlp6D8oBPVjs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKDcBgxlgHObhhYePs0wJkZ_CKZK6SzQe79Me3dvWaEzAiAyoKL1TqZlYh1vU1W2BCNYVyUs4S9jFSan3X8eNMBnMQ%3D%3D/file/index.m3u8
+asianetnews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511274/ei/ilR9ZsfCHqOAkucPsPKKqAU/ip/74.249.13.141/id/Ko18SgceYX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1tE7iYmcilrC1vwnoC300tpeXKdwzgcm-Ab6_fjERsYtcEJAangdtAiQ6A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOt0px4cZ7iVmHrQCmlHRYrfez4XmUlbXJKAcO5VtPRQAiATRMQ2Yjjjw-TCwb2NIHE3vAp1u9uhd46HI5ZovnwuAQ%3D%3D/file/index.m3u8
+Manorama News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511275/ei/i1R9Zrwpx4eS5w-A7rHADw/ip/74.249.13.141/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwJrEDvcR-eXkGTo6oUNDVgmj2lE1zJ_ruqcFXpqeP3bS9zzjvPYu2i7kb8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL2i0pExQ4AK8z3PCOKAwZoKR5wH4-WQuQQprLq9V6K6AiEAg38oHArfPcDunNeXNAKAsDLEwTlxNrU11KWe5LrO2-A%3D/file/index.m3u8
 Kairali News Live,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-Zee Malayalam News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504065/ei/YTh9ZtupFqfysfIP8eae-Ao/ip/20.172.5.35/id/5PUHEZldWYk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTJ3_IxwhKPW4uJd0ZQ07iUe_89xkHQ6D26EC3SPKWrGK0m-7gJs9XdB98/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI4YKoNxmsTLW80yV_KMIKT4E9Pq0QC_YAxrttUg0WbqAiEA-Y40UcsZkY9X67NDvshrnT-njLoAz9sux95Nscog1bU%3D/file/index.m3u8
-MediaoneTV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504065/ei/YTh9ZoGPM9y4sfIPorqFmAI/ip/20.172.5.35/id/DOFFKZK6Pzs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f38c6lK-JIfUqQeThAdAvkhlZFBC_beof12Af6bWUs3LVnq6uMOZ9DqpsVU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcoPH49pLhlbs4PcycEfAdzMzLwkerOiYZroL6uUqzxQCIAZCvrH9xjUZrW03Z2d3gpjUw7V5IN7vmS1Fpv1kcEJf/file/index.m3u8
+Zee Malayalam News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511276/ei/jFR9ZunmBb-CkucPg7KyGA/ip/74.249.13.141/id/5PUHEZldWYk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyO-EUKG_jcoo9V3xkT7jPjeiVAckQtepo8m29eQWjncICg_CaVFLctnmsU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALRaItxZKvp8ywOBv0Q9Fso1Yq0zZpaghNfLfq1-lmVEAiEAhbJo0H4-wmccHy6e6uqfMmcydNnRQ3-Qofex8Uvn0vc%3D/file/index.m3u8
+MediaoneTV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511276/ei/jFR9Zu3SJ9mLkucPuuOwkAU/ip/74.249.13.141/id/0X99tI5nc-M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9raJ-k9hoKA1DFQ2ftMfQgZGB934hFzzPTu9-5LVk_5UM6qWT9emiIL03E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALGarji16xBAyh8gjC4IhjCyI3cgn1Pq4Gr46hrcM_QRAiEAlLsEuQEoLs6k4-hNIDznVrEO5OZkwjKPYgfROI3Mizs%3D/file/index.m3u8
 Raj News Malayalam,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-24 News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504067/ei/Yjh9Zrn8OqHWsfIP19SPuA0/ip/20.172.5.35/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx44VlQHFgwZd6LN6ZzmJdIS1iT6ZYMQXM_xgnTBEHo9DHvB9scQmdMRRQw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIGEC3jBx6De53VPEx7esdXTHtjhSDMkiyEa-AL8n8_xAiBBOMQ-AGJTy-w-LE510e9rxB3bpMtOQ3_By_USzAJ9Vg%3D%3D/file/index.m3u8
-Mathrubhumi News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504067/ei/Yzh9ZoSKH8PesfIP6YSYmAI/ip/20.172.5.35/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fzPAP5g7hy4Pm4e5yXxbLSk2W_SizD1SltRWSJvqpbYj5UHtBlqemo-TDmc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQz02dwnJMRuZrzWXBCx2_Z3_Rdyb6UwsOieg-uvN0mYCIDJVK5DYnD-oRy9RY51poAB3jMxwjfJuOxAoPt_LLJin/file/index.m3u8
+24 News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511277/ei/jVR9ZqfNKbe3kucPhJScmA4/ip/74.249.13.141/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5f84laWeEyaIyrDsL5e1srfoCD8rc-mV4R8RX7HCHvfHgNXD75iKU12lQs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgE--SPY96cim6xAEirO-kLLkasz1NUQZRRIT3snIpY3QCIFmDM9opuisiBu3egFB5nGv6D2NgKcXBBf-jBQg_-fEt/file/index.m3u8
+Mathrubhumi News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511278/ei/jlR9Zrm5DceHkucPgO6xwA8/ip/74.249.13.141/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fzV_aMrB980_tzrlnUUulSSbtfVLknEr6xQ8lyT1-mHtsLVFkxTgO-ZqFvc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCqrVMmfGL8a55xfPF8KNydKfcHgmRs3paQEFTQ94W88CIQCUhe8jrnPekxhZsajsJwFmMo7zUeNqwMyTvXlgeexI8A%3D%3D/file/index.m3u8
 Jaihind Tv,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-News 18 Keralam,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504068/ei/ZDh9ZtXMHJ3ZsfIPh-KqiAw/ip/20.172.5.35/id/gP2ceGgQ7xE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_CvWNd-HynXXxioJ-yQLF93tXDukezI6y-rVjXwgkdB7lFyNKDQycywuvU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW52Lyv12ZM-keibqb6eu-C12DUflA0WDSKF9JmscGrQCIGXa2rREQRASie_ELKTAGe41Q1etO7gr97MF9BcGEpDs/file/index.m3u8
-Kerala Vision News 24x7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504068/ei/ZDh9ZpuoN8TXsfIPn96LmAs/ip/20.172.5.35/id/b00Xxk_0JQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fykmpjT-qca_AMHRVHTrH0uUdKvl1uAj-ebZdot67xsxRzX0F1DVCgHDDFM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALYZxTWAD17kRd4L2LoDOgjVvRAsCK30Pq8ATyVwNvq5AiBC82BMbeL-ny4GuLOL1HsTYQVuYH826fkWZVR7Wwk9xQ%3D%3D/file/index.m3u8
-REPORTER,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504069/ei/ZTh9ZsrLFLyDsfIPh8CDuAw/ip/20.172.5.35/id/HGOiuQUwqEw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1A6ajV3ruYK0vRvYNpMNujC5833E_Ij7hT8CJYGraJOiU1L6lUPXUcoXio/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIB-1aBQrVfA79l5l-UP6QzeLncwyJvOMRflCkLGQABHAiBoR-0XZkilxWbf1tiQVSZgYtx1ZLIOmGoSiGUIdjfJUg%3D%3D/file/index.m3u8
+News 18 Keralam,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511279/ei/j1R9ZrvhDJeFkucPkYexqAs/ip/74.249.13.141/id/cDgFYYBLGhk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7UVsNg_yOTwql0jVHp74UicT70AFJ--liOQNEJUBcUQIx8l_RWXzfsKpUU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLai3naqp23Mcg3fqCN1G465_4rJuEEb3NJ0iUHf3mBECIQCxslemo9b0ZQmUq8_cmU8f2LhWYbePvi5G3hV7lUGuDQ%3D%3D/file/index.m3u8
+Kerala Vision News 24x7,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511279/ei/j1R9ZvX0Kvy1kucP38-XoAs/ip/74.249.13.141/id/b00Xxk_0JQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_Vh5M7RfEtj-id4WGAyFIoA6YZyPFGIu0nSzHV64_B1LP4mAQOybBg9VP4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgc4rwSjzt6XFdRRT2_xQDgcrbC7Ei1My-P7OIWCveMjwCIQDVmgGy_9J4uOvrvOX8Y0bKlJyG12_S8aNyU3jykMLYFg%3D%3D/file/index.m3u8
+REPORTER,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511280/ei/kFR9ZsXmDMyIkucPx_-AiAI/ip/74.249.13.141/id/HGOiuQUwqEw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f58xrkqZv0GvZgzxZZUPnJmKeEJKmIMas49LXjDAil-KVoS9L7-LTEkFnlE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALExbNB9U9bzdIisXa5YP_kHUHAgJgnXBb9b9wBcQe9zAiEAzWM-kiTc7nlNUJ80RsMCgrtNSKJsikxbyfgPBDD7qMg%3D/file/index.m3u8
 Shalom TV,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 Goodness TV,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-POWERVISION TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504071/ei/Zzh9ZoqVNcuGsfIPs6OMuAw/ip/20.172.5.35/id/uHC8Go1mmEE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwh4BhqdER9yv5xU5kFbPvLFsj0OvwAXBQOlmJzM4EUpVh8KhheUfexMngU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOtkKl6MnshxHcAxUjSsDKWyO7fFZCeI0qSxVhT5G3mSAiEA5qmGvzbpNlbB0e-Jdd50HmCQFQZjt10cT0f1msengWc%3D/file/index.m3u8
-Youtalk,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504072/ei/aDh9ZrGBGO7msfIP9fTruQw/ip/20.172.5.35/id/9B5zO7BHrlE.24/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fylpfn5GaRKwtt4tutk35dz2y1BVuyzyXxLxt-z6KlMw0DqnhHG7v4uCLdY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPVVpHGdwM4YmFw8Q5fw8QnaS1-XfXISnsHATxfZpz-VAiEA29ppQTRjjC1D-v_w43VdeVkic_glxelS8bNAlY-ML-c%3D/file/index.m3u8
-Shekinah News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504072/ei/aDh9ZqTgNfjXsfIPn4W2kAk/ip/20.172.5.35/id/q1AW5heNVpU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5TnvynYIb7uqjfejlB9I4w3WsWCdcBSnjaBBMdEKKwom_uLYfF0sM4UWtE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOV9s2VeLys_dHsoprDL8uyvAez4KHcXyHF6Xiq-jAruAiEA6t8FY0dVyzQ5xcIbL7wpHymRJBLLpbB24ORZAJ952hw%3D/file/index.m3u8
+POWERVISION TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511282/ei/klR9ZqiKJ5qFkucP3c6e8A0/ip/74.249.13.141/id/uHC8Go1mmEE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-FI-NPzrq5DMHn_IAIz0FE_qUGxv2uKMh_DVOYHxnAGxZZgUug1LSaETfk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZc1dxiBiU7a3Y64S3FRZZa-w9BhkRfsQA_7a6Xd_fmwCIQCHfZGlOA5_qPYd3gnA3h6PBKmQBx7Ry0eKtjvnHvy8eg%3D%3D/file/index.m3u8
+Youtalk,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511283/ei/k1R9ZvrsBIG1kucPit2SuAU/ip/74.249.13.141/id/9B5zO7BHrlE.24/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9-uMGSjoVgQvJ1gPbZKNJB8jxkO1UvptL04ewxhpNrUodwDtzPxZfF5W64/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJRK6M645KZJch03AsWPweleph2mD9m0RK_kuxl_1C51AiBMb_mrGhcL8uZFQEd33w-fm0a1aD6pXzHYaMmZyO51Qg%3D%3D/file/index.m3u8
+Shekinah News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511283/ei/k1R9ZoHnIMa0kucP_eiw8A4/ip/74.249.13.141/id/q1AW5heNVpU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzBc5KCbKa_XDShS0TcpSqO9R4Yt87o-_hBgzDT68RY5PKFInsJfRlhsnm8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANZVwy10NatAPrV2Ta1QFCVDWnSKqz0L1rRky51SS8CfAiANlWmfKDMmgHWPoe_0PukwwPMk-rXdwI_3C6py4hY8DA%3D%3D/file/index.m3u8
 Raj News Telugu,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-Vanitha TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504074/ei/ajh9ZqK3CfivsfIPjq2ZeA/ip/20.172.5.35/id/XOI6ylNW6Hs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwCBWYDQfTcYM0neV2qE5yFVxpup-NRDsMan7I9LxTx4V9SaN9uUjECorM0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHACTEFeoLsBkLP_vU9_8b3acKKX5nudssPz2mRBf5LsCIQDH5afTdGl0l3MeBGb2wY-uhiLNKa09hVg2r-mVokxEgg%3D%3D/file/index.m3u8
+Vanitha TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511284/ei/lFR9ZtqaI6mzkucP8ZeceA/ip/74.249.13.141/id/DSFJBiobSDA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyvR4rLMzx9_sEAFQiR0zqvqBbVnmgAVNuVVhGazOWj7Cu_995URSLz7d3E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHmhLIU6_M4xTSc_4QyAOJPaOuLKRy9LrS5HjAyPuVGMCIQCoGJVLDsKLi-cZ-uF-S52DvmgwcJcLMkEiuQxsJgf2MA%3D%3D/file/index.m3u8
 TV5 News,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-ETV Telangana,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504075/ei/azh9ZruZC7WYsfIPs_CLcA/ip/20.172.5.35/id/rYm1j2sKB4Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2rJBIDd7NV8KdaK8pt7B4ToD0PT9pi_ckDTm-mVzsg_BzarfEhtNgWRHO4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN__cwW3OD_IEUr04-8jogo0DcJVmIP5UW6qTQr5cD2iAiAjbiUmzya6Heop3klvfjLjaqFWDV1SlIu6qIEAK_TOWw%3D%3D/file/index.m3u8
+ETV Telangana,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511285/ei/lVR9ZtTRF7KzkucPobG1cA/ip/74.249.13.141/id/5oxn_CeOY6A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5zJt1PCfjucvfQRwQXu_Fq9xRq_b5ZBSjEI3jxP50b5iQjy5YqiuJEwBGY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDAH1KPCdMvYEJqsOMtewZtO1EhspRIYUn8jBd1am1nsCIGFFkcrksr9p-Q-vS71nHOM5G6uMR5xn8ooOy0T-Zwle/file/index.m3u8
 ETV Andhra Pradesh,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
-TV9 Telugu,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719504076/ei/bDh9Zqb4DpaLsfIPveWt0A4/ip/20.172.5.35/id/II_m28Bm-iM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyUhEm505vicJtrZ3_VcZy25PyaCy1lKu-F2-q6JfhqHde5uLYTx4JHdyf8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKteZpmp5wds8Mo5XkGiqVIwuXAtrzbmW33CuNAwFVKwCIQD_DSwUre8pv_GXpyZj6AThFDjHheMLuaW0rmx2pvg4OQ%3D%3D/file/index.m3u8
+TV9 Telugu,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719511286/ei/llR9ZqSNHfi3kucP5bytiAg/ip/74.249.13.141/id/II_m28Bm-iM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Wfb0IsIbgtqMYnJ6Obd_Js7dqO5UOYIFBnN5HtvM7OPFz2bduNQY_kiVA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZ7zk38mAT0b8TuPa2_F0SHSme8sZV41S6hT3AjafY6oCIDsmt4zbiU_DQsBqKII40CI8l_PLmmBhOj4BtVZ6fD6V/file/index.m3u8
 NTV Telugu,https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -8004,376 +8004,363 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 黑莓電影,http://39.135.133.138:80/wh7f454c46tw876799806_-1237032719/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓電影,http://39.135.133.138:80/wh7f454c46tw876799806_-1237032719/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?
 石家莊娛樂頻道,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-動作電影,http://219.159.194.67:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 動作電影,http://219.159.194.166:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-動作電影,http://171.108.239.115:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 動作電影,http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+動作電影,http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 動作電影,http://180.143.83.6:8181/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+動作電影,http://171.108.239.115:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 動作電影,http://171.108.239.79:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 動作電影,http://171.38.38.46:8181/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-動作電影,http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷電影,http://219.159.194.166:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷電影,http://171.108.239.80:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 影迷電影,http://171.108.239.115:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷電影,http://219.159.194.67:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷電影,http://171.108.239.98:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+影迷電影,http://171.108.239.80:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 影迷電影,http://171.108.239.79:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://219.159.194.166:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://180.143.83.6:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+影迷電影,http://171.108.239.98:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 上海衛視,http://219.159.194.67:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://171.108.239.80:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://171.108.239.115:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://219.159.194.166:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海衛視,http://113.57.93.165:9900/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://171.108.239.98:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 上海衛視,http://58.51.111.46:1111/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://171.108.239.115:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://171.108.239.98:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://171.108.239.80:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://180.143.83.6:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海衛視,http://171.108.239.79:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 上海衛視,http://58.48.37.158:1111/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://171.38.38.46:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-上海衛視,http://113.57.103.216:9000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-東南衛視,http://219.159.194.67:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-東南衛視,http://219.159.194.166:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-東南衛視,http://113.57.93.165:9900/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 東南衛視,http://58.51.111.46:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-東南衛視,http://58.48.37.158:1111/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-東南衛視,http://171.108.239.79:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
-東南衛視,http://171.108.239.80:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
-東南衛視,http://171.108.239.115:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
-東南衛視,http://113.57.103.216:9000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視,http://113.57.93.165:9900/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 東南衛視,http://171.108.239.98:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
-東南衛視,http://171.38.38.46:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視,http://171.108.239.115:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+東南衛視,http://58.48.37.158:1111/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視,http://171.108.239.80:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+東南衛視,http://171.108.239.79:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+東南衛視,http://180.143.83.6:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視,http://219.159.194.166:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 雲南衛視,http://219.159.194.67:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-雲南衛視,http://219.159.194.166:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-雲南衛視,http://180.143.83.6:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+雲南衛視,http://171.108.239.80:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0
 雲南衛視,http://58.51.111.46:1111/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+雲南衛視,http://180.143.83.6:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 雲南衛視,http://171.108.239.79:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0
 雲南衛視,http://171.108.239.115:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0
-雲南衛視,http://171.108.239.80:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0
-雲南衛視,http://171.38.38.46:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 雲南衛視,http://171.108.239.98:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0
-雲南衛視,http://113.57.103.216:9000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+雲南衛視,http://219.159.194.166:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 兵團衛視,http://219.159.194.67:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+兵團衛視,http://219.159.194.166:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+兵團衛視,http://171.108.239.98:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵團衛視,http://171.108.239.80:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵團衛視,http://171.108.239.115:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-兵團衛視,http://171.108.239.98:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵團衛視,http://171.108.239.79:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-兵團衛視,http://219.159.194.166:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+內蒙古衛視,http://219.159.194.67:8181/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 內蒙古衛視,http://219.159.194.166:8181/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 內蒙古衛視,http://58.51.111.46:1111/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-內蒙古衛視,http://171.108.239.115:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
-內蒙古衛視,http://171.108.239.98:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
 內蒙古衛視,http://171.108.239.80:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
+內蒙古衛視,http://171.108.239.98:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
+內蒙古衛視,http://171.108.239.115:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
 內蒙古衛視,http://171.108.239.79:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
-內蒙古衛視,http://219.159.194.67:8181/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 北京衛視,http://219.159.194.166:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京衛視,http://171.108.239.115:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
 北京衛視,http://58.51.111.46:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://180.143.83.6:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://171.108.239.115:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
 北京衛視,http://171.108.239.80:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
-北京衛視,http://171.108.239.79:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
-北京衛視,http://58.48.37.158:1111/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京衛視,http://171.38.38.46:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京衛視,http://171.108.239.98:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://58.48.37.158:1111/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://171.108.239.79:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://219.159.194.67:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 南方衛視,http://171.108.239.115:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 南方衛視,http://171.108.239.80:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 南方衛視,http://171.108.239.79:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 南方衛視,http://171.108.239.98:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-廈門衛視,http://171.108.239.79:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-廈門衛視,http://171.108.239.80:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 廈門衛視,http://171.108.239.115:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+廈門衛視,http://171.108.239.80:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+廈門衛視,http://171.108.239.79:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 廈門衛視,http://171.108.239.98:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林衛視,http://219.159.194.67:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林衛視,http://219.159.194.166:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林衛視,http://113.57.93.165:9900/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林衛視,http://58.51.111.46:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林衛視,http://58.48.37.158:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林衛視,http://171.108.239.115:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林衛視,http://171.108.239.80:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林衛視,http://171.38.38.46:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林衛視,http://113.57.93.165:9900/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林衛視,http://171.108.239.79:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林衛視,http://58.51.111.46:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林衛視,http://171.108.239.98:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林衛視,http://113.57.103.216:9000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-四川衛視,http://219.159.194.166:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林衛視,http://171.108.239.80:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林衛視,http://171.108.239.115:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林衛視,http://58.48.37.158:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林衛視,http://219.159.194.67:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+四川衛視,http://180.143.83.6:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川衛視,http://58.51.111.46:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-四川衛視,http://219.159.194.67:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川衛視,http://58.48.37.158:1111/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川衛視,http://171.38.38.46:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川衛視,http://171.108.239.115:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
 四川衛視,http://171.108.239.80:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
+四川衛視,http://171.108.239.115:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
+四川衛視,http://58.48.37.158:1111/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川衛視,http://171.108.239.79:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
 四川衛視,http://171.108.239.98:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
-四川衛視,http://113.57.103.216:9000/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川衛視,http://180.143.83.6:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川衛視,http://219.159.194.166:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川衛視,http://219.159.194.67:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://219.159.194.67:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://219.159.194.166:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://180.143.83.6:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://171.38.38.46:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津衛視,http://58.51.111.46:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-天津衛視,http://171.108.239.115:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津衛視,http://171.108.239.80:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津衛視,http://171.108.239.79:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-天津衛視,http://58.48.37.158:1111/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津衛視,http://219.159.194.67:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://171.108.239.115:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津衛視,http://171.108.239.98:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-天津衛視,http://180.143.83.6:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://171.38.38.46:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://58.51.111.46:1111/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://171.108.239.98:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://171.108.239.80:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://171.108.239.115:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://58.48.37.158:1111/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 寧夏衛視,http://180.143.83.6:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://171.38.38.46:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://58.51.111.46:1111/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://171.108.239.115:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://171.108.239.80:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+寧夏衛視,http://171.108.239.98:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 寧夏衛視,http://171.108.239.79:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-寧夏衛視,http://113.57.103.216:9000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽衛視,http://113.57.103.216:9000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽衛視,http://113.57.93.165:9900/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽衛視,http://219.159.194.67:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽衛視,http://113.57.93.165:9900/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽衛視,http://58.51.111.46:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽衛視,http://58.48.37.158:1111/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
-安徽衛視,http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽衛視,http://171.108.239.115:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽衛視,http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽衛視,http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽衛視,http://171.108.239.98:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽衛視,http://58.48.37.158:1111/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
+安徽衛視,http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽衛視,http://180.143.83.6:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-山東衛視,http://219.159.194.67:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽衛視,http://171.38.38.46:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 山東衛視,http://219.159.194.166:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山東衛視,http://58.51.111.46:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-山東衛視,http://58.48.37.158:1111/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山東衛視,http://171.108.239.80:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 山東衛視,http://171.108.239.115:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
-山東衛視,http://171.108.239.98:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 山東衛視,http://171.108.239.79:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
-山西衛視,http://113.57.103.216:9000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-山西衛視,http://171.108.239.115:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
+山東衛視,http://58.48.37.158:1111/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山東衛視,http://171.108.239.98:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
+山東衛視,http://219.159.194.67:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西衛視,http://171.108.239.98:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 山西衛視,http://171.108.239.80:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 山西衛視,http://171.108.239.79:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
-廣東衛視,http://219.159.194.166:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+山西衛視,http://171.108.239.115:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
+廣東衛視,http://219.159.194.67:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東衛視,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://171.38.38.46:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東衛視,http://58.51.111.46:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東衛視,http://113.57.103.216:9000/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://171.108.239.79:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東衛視,http://171.108.239.80:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東衛視,http://171.108.239.115:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東衛視,http://171.108.239.98:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://180.143.83.6:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東衛視,http://58.48.37.158:1111/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東衛視,http://171.108.239.79:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西衛視,http://171.108.239.115:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://171.108.239.98:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://171.38.38.46:8181/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://219.159.194.166:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://180.143.83.6:8181/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+廣西衛視,http://219.159.194.166:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西衛視,http://171.108.239.80:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西衛視,http://171.108.239.115:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西衛視,http://113.57.93.165:9900/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西衛視,http://58.51.111.46:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西衛視,http://58.48.37.158:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西衛視,http://171.108.239.79:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西衛視,http://171.108.239.98:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西衛視,http://113.57.103.216:9000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西衛視,http://219.159.194.166:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西衛視,http://219.159.194.67:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西衛視,http://171.108.239.79:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴衛視,http://219.159.194.67:8181/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴衛視,http://219.159.194.166:8181/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-延邊衛視,http://180.143.83.6:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+延邊衛視,http://171.38.38.46:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆衛視,http://180.143.83.6:8181/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆衛視,http://171.108.239.80:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆衛視,http://171.38.38.46:8181/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆衛視,http://171.108.239.115:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆衛視,http://171.108.239.79:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆衛視,http://171.108.239.98:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆衛視,http://171.108.239.80:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆衛視,http://171.108.239.79:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆衛視,http://171.38.38.46:8181/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 旅遊衛視,http://113.57.93.165:9900/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+旅遊衛視,http://219.159.194.166:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅遊衛視,http://219.159.194.67:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-江蘇衛視,http://171.38.38.46:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江蘇衛視,http://219.159.194.67:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江蘇衛視,http://113.57.93.165:9900/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江蘇衛視,http://113.57.103.216:9000/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江蘇衛視,http://171.38.38.46:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江蘇衛視,http://58.51.111.46:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 江蘇衛視,http://58.48.37.158:1111/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江蘇衛視,http://180.143.83.6:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江蘇衛視,http://219.159.194.166:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://219.159.194.67:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西衛視,http://219.159.194.166:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西衛視,http://171.38.38.46:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://113.57.93.165:9900/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://58.51.111.46:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://58.51.111.46:1111/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
-江西衛視,http://171.108.239.115:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
-江西衛視,http://58.48.37.158:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西衛視,http://171.108.239.80:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
-江西衛視,http://219.159.194.166:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西衛視,http://171.108.239.98:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
-江西衛視,http://171.38.38.46:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://180.143.83.6:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西衛視,http://171.108.239.80:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
+江西衛視,http://171.108.239.115:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
+江西衛視,http://171.108.239.98:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
+江西衛視,http://58.48.37.158:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西衛視,http://171.108.239.79:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
-江西衛視,http://113.57.103.216:9000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://219.159.194.67:8181/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://58.51.111.46:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://171.108.239.115:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 河北衛視,http://219.159.194.166:8181/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://58.48.37.158:1111/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://171.108.239.80:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
-河北衛視,http://171.108.239.79:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+河北衛視,http://58.51.111.46:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 河北衛視,http://171.108.239.98:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+河北衛視,http://171.108.239.79:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+河北衛視,http://171.108.239.80:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+河北衛視,http://171.108.239.115:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+河北衛視,http://58.48.37.158:1111/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南衛視,http://58.51.111.46:1111/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-河南衛視,http://58.48.37.158:1111/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南衛視,http://171.108.239.115:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
 河南衛視,http://171.108.239.80:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
-河南衛視,http://171.108.239.98:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
-河南衛視,http://113.57.103.216:9000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 河南衛視,http://171.108.239.79:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江衛視,http://219.159.194.67:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+河南衛視,http://58.48.37.158:1111/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南衛視,http://171.108.239.98:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江衛視,http://219.159.194.166:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江衛視,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江衛視,http://58.51.111.46:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江衛視,http://58.48.37.158:1111/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江衛視,http://171.38.38.46:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江衛視,http://113.57.103.216:9000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江衛視,http://58.51.111.46:1111/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江衛視,http://180.143.83.6:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-海南衛視,http://171.108.239.80:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
-海南衛視,http://171.108.239.115:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江衛視,http://58.48.37.158:1111/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江衛視,http://219.159.194.67:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 海南衛視,http://58.51.111.46:1111/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-海南衛視,http://171.108.239.79:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
-海南衛視,http://58.48.37.158:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+海南衛視,http://171.108.239.115:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
+海南衛視,http://171.108.239.80:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
 海南衛視,http://171.108.239.98:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳衛視,http://219.159.194.67:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+海南衛視,http://58.48.37.158:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+海南衛視,http://171.108.239.79:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳衛視,http://219.159.194.166:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳衛視,http://180.143.83.6:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳衛視,http://58.51.111.46:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳衛視,http://58.51.111.46:1111/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳衛視,http://219.159.194.166:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳衛視,http://58.48.37.158:1111/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳衛視,http://180.143.83.6:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北衛視,http://219.159.194.166:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北衛視,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北衛視,http://180.143.83.6:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北衛視,http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北衛視,http://171.108.239.115:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北衛視,http://171.108.239.80:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北衛視,http://58.48.37.158:1111/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北衛視,http://171.108.239.98:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北衛視,http://171.108.239.79:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北衛視,http://113.57.103.216:9000/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北衛視,http://219.159.194.67:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://219.159.194.166:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://113.57.93.165:9900/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.108.239.80:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.108.239.79:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.108.239.115:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://58.51.111.46:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.38.38.46:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://58.48.37.158:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.108.239.98:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://113.57.103.216:9000/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北衛視,http://171.108.239.80:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北衛視,http://171.108.239.115:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北衛視,http://171.108.239.98:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北衛視,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北衛視,http://171.108.239.79:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北衛視,http://58.48.37.158:1111/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南衛視,http://219.159.194.67:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肅衛視,http://219.159.194.166:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://113.57.93.165:9900/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://219.159.194.166:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.108.239.115:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.108.239.80:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.38.38.46:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.108.239.98:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://58.51.111.46:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://180.143.83.6:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://58.48.37.158:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.108.239.79:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肅衛視,http://219.159.194.67:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肅衛視,http://180.143.83.6:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肅衛視,http://171.38.38.46:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肅衛視,http://219.159.194.166:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏衛視,http://219.159.194.166:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏衛視,http://219.159.194.67:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏衛視,http://171.38.38.46:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏衛視,http://171.108.239.115:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏衛視,http://180.143.83.6:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏衛視,http://171.108.239.98:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏衛視,http://171.108.239.80:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏衛視,http://171.108.239.79:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏衛視,http://219.159.194.166:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏衛視,http://171.108.239.98:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏衛視,http://171.38.38.46:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 貴州衛視,http://219.159.194.166:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-貴州衛視,http://171.38.38.46:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-貴州衛視,http://180.143.83.6:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+貴州衛視,http://219.159.194.67:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 貴州衛視,http://171.108.239.115:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 貴州衛視,http://171.108.239.80:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
+貴州衛視,http://180.143.83.6:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+貴州衛視,http://171.38.38.46:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 貴州衛視,http://58.51.111.46:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-貴州衛視,http://58.48.37.158:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 貴州衛視,http://171.108.239.98:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 貴州衛視,http://171.108.239.79:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
-遼寧衛視,http://180.143.83.6:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+貴州衛視,http://58.48.37.158:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視,http://219.159.194.67:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視,http://58.51.111.46:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視,http://171.108.239.115:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
+遼寧衛視,http://171.108.239.80:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 遼寧衛視,http://113.57.93.165:9900/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 遼寧衛視,http://171.38.38.46:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-遼寧衛視,http://171.108.239.80:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
-遼寧衛視,http://171.108.239.79:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 遼寧衛視,http://58.48.37.158:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-遼寧衛視,http://171.108.239.115:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
-遼寧衛視,http://58.51.111.46:1111/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視,http://171.108.239.79:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 遼寧衛視,http://171.108.239.98:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
-遼寧衛視,http://113.57.103.216:9000/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 遼寧衛視,http://219.159.194.166:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-遼寧衛視,http://219.159.194.67:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重慶衛視,http://219.159.194.67:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重慶衛視,http://219.159.194.166:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重慶衛視,http://171.38.38.46:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重慶衛視,http://58.51.111.46:1111/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 重慶衛視,http://180.143.83.6:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重慶衛視,http://219.159.194.166:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重慶衛視,http://171.108.239.79:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 重慶衛視,http://171.108.239.80:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-重慶衛視,http://171.108.239.98:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 重慶衛視,http://171.108.239.115:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 重慶衛視,http://58.48.37.158:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重慶衛視,http://113.57.103.216:9000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重慶衛視,http://171.108.239.79:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-重慶衛視,http://171.38.38.46:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重慶衛視,http://171.108.239.98:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+陝西衛視,http://219.159.194.67:8181/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陝西衛視,http://219.159.194.166:8181/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陝西衛視,http://58.51.111.46:1111/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陝西衛視,http://171.108.239.80:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
-陝西衛視,http://219.159.194.67:8181/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陝西衛視,http://171.108.239.115:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
+陝西衛視,http://171.108.239.80:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
 陝西衛視,http://171.108.239.98:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
 陝西衛視,http://171.108.239.79:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
-青海衛視,http://180.143.83.6:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海衛視,http://219.159.194.67:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海衛視,http://171.108.239.79:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+青海衛視,http://219.159.194.166:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海衛視,http://171.38.38.46:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海衛視,http://171.108.239.115:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+青海衛視,http://180.143.83.6:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海衛視,http://171.108.239.79:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 青海衛視,http://171.108.239.80:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 青海衛視,http://171.108.239.98:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+青海衛視,http://171.108.239.115:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龍江衛視,http://113.57.93.165:9900/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龍江衛視,http://58.51.111.46:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龍江衛視,http://113.57.103.216:9000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龍江衛視,http://171.108.239.98:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龍江衛視,http://58.48.37.158:1111/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龍江衛視,http://171.108.239.115:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龍江衛視,http://171.108.239.80:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龍江衛視,http://171.108.239.79:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龍江衛視,http://58.48.37.158:1111/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龍江衛視,http://171.108.239.98:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龍江衛視,http://219.159.194.166:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
 黑龍江衛視,http://219.159.194.67:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
-酒店影視1,http://171.108.239.115:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店影視1,http://171.108.239.79:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視1,http://171.108.239.80:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影視1,http://171.108.239.115:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視1,http://171.108.239.98:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影視1,http://171.108.239.79:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視2,http://171.108.239.115:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視2,http://171.108.239.80:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視2,http://171.108.239.98:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視2,http://171.108.239.79:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視3,http://171.108.239.115:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視3,http://171.108.239.80:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店影視3,http://171.108.239.98:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影視3,http://171.108.239.79:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店MV,http://171.108.239.80:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影視3,http://171.108.239.98:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.115:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店MV,http://171.108.239.80:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.79:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.98:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-東森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 東森洋片,http://171.108.239.115:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-東森洋片,http://171.108.239.98:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+東森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 東森洋片,http://171.108.239.79:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+東森洋片,http://171.108.239.98:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+東森電影,http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+東森電影,http://171.108.239.115:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 東森電影,http://171.108.239.80:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 東森電影,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-東森電影,http://171.108.239.115:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-東森電影,http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-東森超視,http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 東森超視,http://171.108.239.115:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-東森超視,http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 東森超視,http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰中文,http://180.143.83.6:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+東森超視,http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+東森超視,http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰中文,http://171.38.38.46:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰中文,http://180.143.83.6:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰中文,http://180.143.83.6:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰中文,http://171.38.38.46:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰資訊,http://171.108.239.115:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰資訊,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰資訊,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰資訊,http://171.38.38.46:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰資訊,http://171.108.239.98:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰資訊,http://171.38.38.46:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰香港,http://171.108.239.115:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰香港,http://171.108.239.79:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://180.143.83.6:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://180.143.83.6:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://171.108.239.115:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://171.108.239.98:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰資訊,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰香港,http://171.38.38.46:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰香港,http://171.108.239.115:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰香港,http://180.143.83.6:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰香港,http://171.108.239.98:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-天映電影,http://171.108.239.115:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰香港,http://171.108.239.79:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰香港,http://171.38.38.46:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 天映電影,http://171.108.239.80:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-天映電影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 天映電影,http://171.108.239.98:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+天映電影,http://171.108.239.115:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+天映電影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.80:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.115:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 私人影院,http://171.108.239.79:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 私人影院,http://171.108.239.98:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.115:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.80:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠臺,http://171.38.38.46:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠臺,http://180.143.83.6:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 龍祥電影,http://171.108.239.115:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龍祥電影,http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龍祥電影,http://171.108.239.98:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龍祥電影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北壟上,http://113.57.103.216:9000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北影視,http://113.57.103.216:9000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影視,http://58.51.111.46:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影視,http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北綜合,http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -8381,90 +8368,86 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 湖北經視,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北經視,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北經視,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北經視,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 武漢影視,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 武漢教育,http://58.48.37.158:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 武漢文體,http://58.48.37.158:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 武漢新聞,http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 武漢科技生活,http://58.48.37.158:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-BTV卡通,http://113.57.103.216:9000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 動漫秀場,http://171.108.239.80:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 動漫秀場,http://171.108.239.115:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 動漫秀場,http://171.108.239.98:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 動漫秀場,http://171.108.239.79:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少兒,http://171.108.239.80:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少兒,http://171.108.239.115:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少兒,http://171.108.239.98:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少兒,http://180.143.83.6:8181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少兒,http://171.108.239.79:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少兒,http://171.38.38.46:8181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫動,http://180.143.83.6:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少兒,http://171.108.239.115:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少兒,http://171.108.239.80:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少兒,http://171.108.239.98:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫動,http://171.38.38.46:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-少兒動畫,http://171.108.239.115:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫動,http://180.143.83.6:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 少兒動畫,http://171.108.239.79:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 少兒動畫,http://171.108.239.80:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+少兒動畫,http://171.108.239.115:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 少兒動畫,http://171.108.239.98:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
-金鷹卡通,http://171.108.239.80:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鷹卡通,http://180.143.83.6:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+金鷹卡通,http://171.108.239.80:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 金鷹卡通,http://171.108.239.115:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-金鷹卡通,http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-金鷹卡通,http://113.57.103.216:9000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-金鷹卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 金鷹卡通,http://171.108.239.79:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+金鷹卡通,http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鷹卡通,http://171.108.239.98:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東體育,http://219.159.194.67:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+金鷹卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東體育,http://219.159.194.166:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東體育,http://171.108.239.115:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東體育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東體育,http://171.108.239.80:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東體育,http://180.143.83.6:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東體育,http://171.108.239.98:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東公共,http://219.159.194.67:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東少兒,http://219.159.194.166:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東體育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東體育,http://180.143.83.6:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東公共,http://219.159.194.166:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東少兒,http://219.159.194.67:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東影視,http://219.159.194.166:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東影視,http://219.159.194.67:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東影視,http://171.108.239.80:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東影視,http://171.108.239.115:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東影視,http://171.108.239.98:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東影視,http://171.108.239.79:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東新聞,http://219.159.194.166:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東影視,http://219.159.194.166:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東新聞,http://219.159.194.67:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東新聞,http://171.38.38.46:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東新聞,http://219.159.194.166:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東新聞,http://180.143.83.6:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東珠江,http://180.143.83.6:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東珠江,http://171.38.38.46:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東科教,http://219.159.194.67:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 廣東科教,http://219.159.194.166:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 廣場舞,http://171.108.239.80:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 廣場舞,http://171.108.239.115:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-廣場舞,http://171.108.239.79:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 廣場舞,http://171.108.239.98:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-廣州臺,http://180.143.83.6:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+廣場舞,http://171.108.239.79:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+廣州臺,http://171.38.38.46:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 廣州影視,http://180.143.83.6:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-廣州影視,http://171.38.38.46:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西影視,http://219.159.194.166:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西影視,http://219.159.194.67:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西影視,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西影視,http://171.108.239.80:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西影視,http://171.108.239.115:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西影視,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西影視,http://171.108.239.98:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西新聞,http://219.159.194.166:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西新聞,http://219.159.194.67:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西新聞,http://171.108.239.80:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西新聞,http://171.108.239.115:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西新聞,http://171.108.239.80:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西新聞,http://219.159.194.166:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西新聞,http://171.108.239.79:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西新聞,http://171.108.239.98:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西綜藝,http://219.159.194.166:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西綜藝,http://219.159.194.67:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西綜藝,http://171.108.239.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西綜藝,http://171.108.239.115:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西綜藝,http://171.108.239.98:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西綜藝,http://171.108.239.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西綜藝,http://171.108.239.79:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西綜藝,http://171.108.239.98:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西綜藝,http://219.159.194.67:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西都市,http://219.159.194.67:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西都市,http://219.159.194.166:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西都市,http://171.108.239.115:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西都市,http://171.108.239.80:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-廣西都市,http://171.108.239.79:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 廣西都市,http://171.108.239.98:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-本港臺,http://180.143.83.6:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西都市,http://171.108.239.79:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西都市,http://219.159.194.166:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 本港臺,http://171.38.38.46:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+本港臺,http://180.143.83.6:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戲劇臺,http://61.221.215.25:8800/hls/41/index.m3u8
 經典神話臺[1280*720],http://ali.hlspull.yximgs.com/live/asdfg32522.flv
@@ -8794,58 +8777,56 @@ Bestv4K,http://175.10.33.242:4502/rtp/239.76.254.3:9000?$湖南電信
 超级电视剧,http://39.135.133.156:80/wh7f454c46tw1360290221_-837479301/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电视剧,http://39.135.133.156:80/wh7f454c46tw1360290221_-837479301/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?
 石家庄娱乐频道,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-影迷电影,http://219.159.194.166:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷电影,http://171.108.239.80:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 影迷电影,http://171.108.239.115:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷电影,http://219.159.194.67:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷电影,http://171.108.239.98:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+影迷电影,http://171.108.239.80:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 影迷电影,http://171.108.239.79:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+影迷电影,http://171.108.239.98:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://113.57.93.165:9900/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://219.159.194.166:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://219.159.194.67:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视+,http://219.159.194.166:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视+,http://219.159.194.67:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
-酒店影视1,http://171.108.239.115:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店影视1,http://171.108.239.79:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视1,http://171.108.239.80:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影视1,http://171.108.239.115:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视1,http://171.108.239.98:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影视1,http://171.108.239.79:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视2,http://171.108.239.115:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视2,http://171.108.239.80:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视2,http://171.108.239.98:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视2,http://171.108.239.79:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视3,http://171.108.239.115:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视3,http://171.108.239.80:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店影视3,http://171.108.239.98:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店影视3,http://171.108.239.79:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-酒店MV,http://171.108.239.80:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店影视3,http://171.108.239.98:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.115:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+酒店MV,http://171.108.239.80:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.79:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 酒店MV,http://171.108.239.98:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,http://171.108.239.115:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://171.108.239.98:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,http://171.108.239.79:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://171.108.239.98:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://171.108.239.115:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,http://171.108.239.80:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://171.108.239.115:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-天映电影,http://171.108.239.115:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 天映电影,http://171.108.239.80:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-天映电影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 天映电影,http://171.108.239.98:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-星河,http://171.108.239.80:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+天映电影,http://171.108.239.115:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+天映电影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 星河,http://171.108.239.115:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+星河,http://171.108.239.80:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 星河,http://171.108.239.79:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 星河,http://171.108.239.98:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.80:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.115:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 私人影院,http://171.108.239.79:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 私人影院,http://171.108.239.98:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.115:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.80:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.115:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.98:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共新闻,http://58.48.37.158:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北垄上,http://113.57.103.216:9000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北电视台,http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北电视台,http://58.48.37.158:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉影视,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -8853,52 +8834,50 @@ Bestv4K,http://175.10.33.242:4502/rtp/239.76.254.3:9000?$湖南電信
 武汉文体,http://58.48.37.158:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉新闻综合,http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉科技生活,http://58.48.37.158:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-BTV卡通,http://113.57.103.216:9000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-少儿动画,http://171.108.239.115:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 少儿动画,http://171.108.239.79:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 少儿动画,http://171.108.239.80:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://171.108.239.115:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 少儿动画,http://171.108.239.98:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
-广东公共,http://219.159.194.67:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿,http://219.159.194.166:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://219.159.194.166:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://219.159.194.67:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://219.159.194.166:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://219.159.194.67:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.108.239.80:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.108.239.115:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.108.239.98:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://171.108.239.79:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://219.159.194.166:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东科教,http://219.159.194.67:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东科教,http://219.159.194.166:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广场舞,http://171.108.239.80:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 广场舞,http://171.108.239.115:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-广场舞,http://171.108.239.79:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 广场舞,http://171.108.239.98:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-广州台,http://180.143.83.6:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+广场舞,http://171.108.239.79:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+广州台,http://171.38.38.46:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://219.159.194.166:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://219.159.194.67:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.80:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.115:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-广西影视,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.98:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-广西新闻,http://219.159.194.166:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://219.159.194.67:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-广西新闻,http://171.108.239.80:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://171.108.239.115:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.108.239.80:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://219.159.194.166:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://171.108.239.79:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://171.108.239.98:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺,http://219.159.194.166:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺,http://219.159.194.67:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺,http://171.108.239.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://171.108.239.115:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺,http://171.108.239.98:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://171.108.239.79:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.98:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://219.159.194.67:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://219.159.194.67:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-广西都市,http://219.159.194.166:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.115:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.80:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-广西都市,http://171.108.239.79:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.98:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-本港台,http://180.143.83.6:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.108.239.79:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://219.159.194.166:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 本港台,http://171.38.38.46:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+本港台,http://180.143.83.6:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 123GO!,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8
 5-Minute Crafts,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8
 ACL Cornhole TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01.m3u8
