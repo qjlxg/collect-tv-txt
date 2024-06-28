@@ -1270,6 +1270,7 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV4空中课堂频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
 湖南娱乐频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWE0OTdiMzk0YzNkZmQyZTcyNmQ1NzY1YzdjZTg1OGEzJmVzPTE3MTk1ODY0NTgmdXVpZD0wMzVlNWFkNTE3NGE5NTg0YzdjYTdiOWFlMTRiYzY5Ny02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
+金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWI1ZjhhYjY1YmNkYWM2N2VkMTJlOGY5ZmY1ZDU5ZWRkJmVzPTE3MTk1ODA1MTgmdXVpZD03MmUwNTkyYjQ4NDc3ODY1MWQ2ODFiYWZlZTY5Yzg5Ni02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTEyMTM4MzYzMTI2M2I4MDJkNzg0ZGZhOTE0N2UwNjQ0JmVzPTE3MTk1ODM3MDMmdXVpZD03MmQ2ODdkODNlZWViODhjMDc3Mjk4NjU1ODg5NDM3Ny02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWY1ZjVhNWQ3YjAxYTQ1ZjAwMDY0NDI2NTViNjM4ZDA3JmVzPTE3MTk1ODg2MzEmdXVpZD04MGI2MDJkNTcwMDAzM2ZiYzMzMWFkNWUyZDA3ODI1Ni02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -2662,10 +2663,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=637e11f0c66718b6a7ff5940b8ce4258&txTime=667EAB9B
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=cc34d771d4d1e79379dd939cc91c9adc&txTime=667EAB9B
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=b15fd8e78e660e7ace453ba725d1e14c&txTime=667EB359
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=69a9b41d1b9523f5b6161b4581a16fd1&txTime=667EB359
 贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=eb1aad6b408295d4fb5b0de4a715474b&txTime=667EACCA
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=f4f013e2237567c30a74f7c7a9746c95&txTime=667EAB9B
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=c5727ac9ea9494f282b662056ee16874&txTime=667EB359
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2711,38 +2712,38 @@ TVB无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 贵州新闻综合广播 FM94.6,http://ls.qingting.fm/live/23933.m3u8
 贵州音乐广播,http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
 贵州综合广播,http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
-Somoy TV News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595014/ei/ppt-ZoPnDNiEkucP8dKMoAg/ip/74.249.14.189/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fweAD92Uqyh4FPA3LFyiH6gfD0auJxaiQeHbQeWHzKBE671VPz0AEHEGJiI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbGaMJGEAkHqgmTOc8ceHnolRwF3QoPBJ0o73cBmyRvYCIQCMMG9YyJ18p7ANf-arSF-mQdkIBtHrgKWt89_Hj9plVg%3D%3D/file/index.m3u8
-Channel I news,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595014/ei/ppt-Zp3bMNqKkucPz6enoAg/ip/74.249.14.189/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181251/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzS7yLjcIqm0lIAF6K0o2NJwWFqXYSlmbpIYMzAhoe1cgY0Y9quF5cNzvlY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJcJcLk-3QdgT3ggDnJjC1pJOpKW_vrPvWw3rFlkWYU4CIQDQHSHLLJinde90YFzQdvq79rhnIssnJJEswGk38O0hoA%3D%3D/file/index.m3u8
-Jamuna TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595015/ei/p5t-ZrPOF5-KkucPqeyYqAI/ip/74.249.14.189/id/J2tSnE_XSrw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5qKo8mkQLYOXiXehqrpk6dqBjDjqUfmwiZWjD-1PKQ48XyVRK9t_jN50mc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJWebnnrqkL7Tl-tpw-e0DcZ_eZ4KO-dk5kT5m8t8pj1AiEA9mQFUpMnGq5xOuXxMDUnUNhBw8TIKLjRg25xwhKHYP4%3D/file/index.m3u8
-Rtv News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595016/ei/qJt-Zscwj4aS5w_-27egDQ/ip/74.249.14.189/id/2-WjxLR-75Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f79jMQlMSYzsqrFKvNmZqc5y-tVWF8eUYZZEieotV390O-V5YIxDtC5CQ-8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALGItUDrAGUjqQx296T0oxIMnmYtriF7cVuj5XCR1D5bAiEAh5OsiBIFu3F5JZedVuyjU8hVuUs1U2aOF0wefB_njFc%3D/file/index.m3u8
-Independent Television,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595016/ei/qJt-ZqHbHPqDkucPnr-WuA0/ip/74.249.14.189/id/fFuNOwOmCxw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyYJmO0LkRG1lu2pExZ-05FiP6mE-Cku8M5racewpETgP-kB-Z_pY-T3TDs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPE_WQ-dtAFe-mWoDkufrD6Dqk4ELLu42MHkJ-DpAoxHAiBzfjB8Uhy6odO42yD3hHXEesWGPJUZ3f8m_cRC6SPSVQ%3D%3D/file/index.m3u8
-Ekattor Television,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595016/ei/qJt-ZpvUOYmBkucP46-0uA0/ip/74.249.14.189/id/nCe8PupCXlQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTEvsQ-lkQvUK3jDXwLZYQPFlKBj3nk_ozwiRbhvZTkYXed4mLZAMG6nL8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANoiijngyGeGk6PXiVzvDTHDUZZwkM9qD9UIKtRRQ4UlAiBHWZCylwqOOA43X--GgDyU1IoAPwSnvLjjm7-P60kgkA%3D%3D/file/index.m3u8
+Somoy TV News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599838/ei/fq5-ZpCiDeWDsfIPqtaS8AU/ip/52.234.36.32/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxIyWln2y31JqiekHUD1K1yv8FDID-iCtEi7nhwdZhR7ogVhRD0Qd-8yFqA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPgwtOrmqwbggCHR0gy22r5Eu-Krjxe3qB22geO96TWECIC8dvZT6f8kXYT4KkO1t3GOg6Kf4E2HDw3U3o3u0pSr5/file/index.m3u8
+Channel I news,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599838/ei/fq5-Zvi7No_WsfIPicORkAE/ip/52.234.36.32/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2G-eZES0SiEGH9h8Sg9Wkr0dnsdimg5WpTL_htGSbWgLcMzSMJoZooDIq0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJlocFzLdPwY-_TVj0bFtOMrNvODz4NOZA3u1yKArFblAiBBGX7KIyycG08SQY41ozbw1emcvoBH96MagXV8EgSBRA%3D%3D/file/index.m3u8
+Jamuna TV,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599839/ei/f65-ZuOYG4a2sfIPjfWJwAE/ip/52.234.36.32/id/J2tSnE_XSrw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5RcQwEGX_Y_MIKYeIO6ZSDxUWIi-e4Xtoa6K3cS137ZFrehQYWdvCkBtJQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLFZaycblWdCX8lTB1M-7XUNipJ8bmevaUPZBHk39KhQCIQCb-B3MUTmYmLfzqTdzK54QcM_YusHnzSvzVEodBATxKg%3D%3D/file/index.m3u8
+Rtv News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599839/ei/f65-ZqnQNpyLsfIPtrIS/ip/52.234.36.32/id/2-WjxLR-75Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4O6rlp2zdhXjiQHn6dMvBrAk2kpa7QFOxTWS6JHgUby1MAJXtN938nKY1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLNmo-WChjI2DBUWGGmRnUMAY3Y1vgKD5IJS1QDUgymMCIQCRb_kEoBzL_m67rlPF8s1l0lOoAwy55CLXuUgnABaDzg%3D%3D/file/index.m3u8
+Independent Television,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599840/ei/gK5-ZvDDF-rHsfIP5YM_/ip/52.234.36.32/id/fFuNOwOmCxw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9TcJZZZMs8ID5GzmHlrum-q2vQzFKHcbTyDvtC7Lb-LKJT-q28pOB9HfxY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOjJ9VYpvXWJvWo4gYjsn3PuuDfzul7GP2rHSb2TfnNfAiEAjnYsBjiL46L6mfP5lB_gf3JAHDlPqKLUClp49llkxw4%3D/file/index.m3u8
+Ekattor Television,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599840/ei/gK5-Zvm0N9bFsfIPwq2G6A8/ip/52.234.36.32/id/nCe8PupCXlQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181254/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyMyGh8-Z9nTtlvrZsAdYFOjYleXmG_AXjhum9BjV2jIRQd6BS-2vTw3Z-0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD80z78OUJEldWZoSBin44gC92QaIHWHl27blvKjwVU0CIQC-DFwagtci-pkjq0Z2eE7tIsM5ca0oEXp6dECYJr90lg%3D%3D/file/index.m3u8
 Atn newsltd,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 BanglaVision,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-Channel 24,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595018/ei/qpt-ZtSzJsqzkucPwZaZ-A0/ip/74.249.14.189/id/FYptE83Tgk0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181254/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8v1evgHbx9MYh8ikE_aFhwywn4N7Z-y70ZgD-4mjoPrEDZAsxTN8clWq4c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHaNV4RHrz2vOejLdpFpmFxDU4lNu3bkvB4dx856lIlECIHDh6IbUUifm--Yv7TW2noo7EzIEt4eZxadSUgsqMwW7/file/index.m3u8
-Ntv Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595019/ei/q5t-Zv3OBPq1kucPzvuooAI/ip/74.249.14.189/id/VTzYFfYFgkg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5K5RkjxNv2uBUOeXrEZbqvhfIRjX7pfVx2hvx4AnjFG1GSKOtm7TXEiVM8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIvfeaUe2GEmNgWz0TMUTxWpKhgfl5e6DMF-N9LTLGeWAiAOZTo1JDNJxeq5CRToBObAUg2-qeDrOmZNm7RLnnUrCA%3D%3D/file/index.m3u8
-Ekhon Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595019/ei/q5t-ZrrcIs-KkucPns_8qA0/ip/74.249.14.189/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4iK-LoVZn38kZtdZYf2vtV8If4z8tM8knUKA6V0FkC1vcS9moQ8sfznlTQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPNQKzIXVCSj7rVW8fa8w5GMXGtCyqy7JzROndsa5-TwAiEA2vSJeoFzoxRhHHxYnWut09BvRA2-RjYUtnjcbxYzZJ8%3D/file/index.m3u8
-DBC Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595020/ei/rJt-ZrbVA4eJkucPjM6isA0/ip/74.249.14.189/id/MYVi_NKphds.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0Ep8ifodANZPVapnBBHOngtHg4uPD9eqnzN6ft14vNns3WAG6SYSZVBMUU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRai43zBpQ71MQudKNNE9fEhDAdnsYedwO2J1aT_vt-QCIQC7g-ohNi6ZKHUfGN0iPRlEWGTd8COGvamd0W0sLte72g%3D%3D/file/index.m3u8
+Channel 24,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599842/ei/gq5-ZsfnHvXGsfIPiourqAw/ip/52.234.36.32/id/FYptE83Tgk0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-KZYf1JkmUPt2Jse4cscgu3npqkEM6DHRFRpw6VVJJ5ia1qDsLQebHH5Os/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJydthEDv_6_pdJsOugFJovQfdKQp6-3sMfMCYMURsywCIEwLMwZg67bpT05DvIK4p8d5yBDVCAqFKPqYWS9m4ecr/file/index.m3u8
+Ntv Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599843/ei/gq5-ZtbJO6fysfIPo9SfEA/ip/52.234.36.32/id/VTzYFfYFgkg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5Xr8Y0gvoiLAe-TnycZzyiNZq41-jwfgbOigJ0MtRGJdqIjV-BXM0AW_Is/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANa-QNnOAOKkXbrka8qo8SkJLctxsNG_vZzlXwjQfxN-AiASAQ_fkmydbWRCf-weZnMp0tdy0vNlW8LYGj4mUfca_w%3D%3D/file/index.m3u8
+Ekhon Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599843/ei/g65-Zt2eG4e9sfIPyaKykAw/ip/52.234.36.32/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxvikx467SHpxiqhYRJsiBNUR_K7B8na6aBb-7g3zcvqKLt3ZjNtgaOGrQQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOLZHkA3Lfnb9GdthWDj5tQp5Rsz3rQnplpBh8eziNkNAiBUfumXsFzSvqMZEzTlZjCELPJp9m8RbDSKWE12YV9zeA%3D%3D/file/index.m3u8
+DBC Live,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599844/ei/g65-Zt6xOduCsfIP-9uMgAc/ip/52.234.36.32/id/MYVi_NKphds.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0ncGTofw22uRY1QbJF3Pn0SBzdT0zsjbHhbO3rBtDNGvQtxWAJkZT3o7OE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKjjssWMXDEy2Vs3nT6xsceFrAKnKMZ1e85pm_7fZ79HAiBRaDKTzU9kh74JJt9PVLlfbz_AXWMusAJupYdZoW0hHw%3D%3D/file/index.m3u8
 BTV LIVE,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 MYTV live,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 News 24 Extra,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-Maasranga News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595021/ei/rZt-ZsKpHKq1kucPxMOhqA0/ip/74.249.14.189/id/b1EXydg6huw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f4Juink3eTwJJSzoA2wKufFRGGLrrnK3lCgWXTc5i66TPFkFEEl9g9B7GvE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOFSw0SK2KEzrptpC8tsK7xuDL1AXL1VjWCyW_kA9fuwCIQCXndbZXPaI2EpI6USndC_KfpLgfNSEr4WjXQk2YH_P0g%3D%3D/file/index.m3u8
-Al Jazeera English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595021/ei/rZt-Zr23NIWGkucP7-SIqAg/ip/74.249.14.189/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7zypzblJm4Jpj3jOeAd_8ryBaL6cWXhU-k8S3s_usOhH8cz04yKTFY2Egw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMJxmwj0ciFcTDkktzaiWSLkf0ikIQMaqM9IIxKSnWF_AiA086S20_99ulTFMyusajNhF4usmzRtXCqrcJ_1RimtmQ%3D%3D/file/index.m3u8
-Reuters,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595022/ei/rpt-Zu_9Es-ykucP6YSPsAg/ip/74.249.14.189/id/wtI4XC1LX_s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5bviTq2nZsIsCbOYwtU4oEUG2eEIHW2EZRVKCpCyQCHqjm-q9px-HAeJns/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKyK-QS6DioX5kWvfu_iyEsTOFkp5wXO4xCrtZlv4iKJAiAY2gGJOQHRjnAHJ1GV8kpnzbX6Z7n8JAhhZgz_mnsnww%3D%3D/file/index.m3u8
-WINO,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595022/ei/rpt-ZuDSMKaLkucPuIqCoAw/ip/74.249.14.189/id/kH4fmj2VjdU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxQUn7585ZlIQ_8KVGRI-bGoaITzUqBFQfgIoDc91SQg5YTN6hvp4hMGosU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKltkY3pm35BADsrVZmi6XGJIJKhszOgFtu2uu1MnUOgAiBw8-24ix0NqppaTnOY_IqU5cCd26w0BS6-GnRk0GeYTw%3D%3D/file/index.m3u8
-DW News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595023/ei/r5t-ZqrHCZ-ykucP2Z-DmA0/ip/74.249.14.189/id/tZT2MCYu6Zw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwpO9vD5Xcqz3eCHkrlLAVfTiy40rTg44TYKgi5qCg6XZ9g9H59yNOLU02A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbmU01dpjwnSdmekAsTq0s75kDslosvOJvd9SwUzU4P8CIDuCtYu79GtzMnAtwVUZunED3Z1kuXqErXpkgz3UAEJz/file/index.m3u8
-CNA,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595023/ei/r5t-ZsqZIqCBkucP_emEwAQ/ip/74.249.14.189/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6OQnsZYjHjEACvVf1ZBD-l1xuU5NRbbR19s9tdPoWckFn0Jzw0lMpxenig/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSFm7PvyoaeHWn6DUr4FxnE9qrILK6T9yG6hjWQjYDjsCIFIwEkRdN3TsS82aS514S4RaMLVWNPAAQZc4N58ZWbQ3/file/index.m3u8
-RTV Music,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595024/ei/sJt-Zru1BLiTkucP_eK1sAI/ip/74.249.14.189/id/kHgam3HvIbc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_PmKVLbOHneMOJBItZ34FLsEahU0Fvz-EJELT5XU7KvyVKDzmdTIyroKPU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANmt7BbZhwO37CWWR66v1ToAWRTSeVRbtApiwwuKdQ3OAiAPR2FmoVapKMmJTVcpxLIqTxWKlLDFBRFaGPbR6gvkVA%3D%3D/file/index.m3u8
-Nat Geo WILD,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595024/ei/sJt-ZtiCJM2ykucP3bqpoAQ/ip/74.249.14.189/id/PLR6KdmyTho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fxRYOzPRca7UXyLCPhKFOOS9FufBgWQS4tjFIoDVtLIG17NQYsimILSBjmg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKmaLz3t8sY32fJUrMsY0HNyiLF0J4K-fimzmhoiN28AAiEAhKwAjrPNK5Rt4O9Hqiuex1NRC7m1NnRx4DEzk-lWAhQ%3D/file/index.m3u8
-ABP Ananda,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595025/ei/sZt-ZoKOBKqGkucP07e0mAg/ip/74.249.14.189/id/wQO2suX10og.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx_hemmvB26btjK_ht_C6DJ3zGyX9FPDqNkuzcRDDsL1gx6w9GVkTvqRQ0A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRdlPxvNEmpiWOXJ_ESjA1JWFzfQy16V_61XtOJt5A60CIQDiqydnYYUY6cKCkbdtyf_eq95hnuiGB8PJdnObsUpL1A%3D%3D/file/index.m3u8
-ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595025/ei/sZt-Zo6-JqqIkucP79m9sAI/ip/74.249.14.189/id/lm463-F6sqQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwU4ozK_SoDC2y9Nwix1ec88XiVmg9vlgqwu56ezP-vpGSsGXedwlqwGIZw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgchAS3Ymjt0DRpf_qkUNgbSFoyRSBdZG4YSwXw3yxUJACIQDAfMubmW2OjYSaydygKdq1-NDDL6z6PEXemUT4VXhzSQ%3D%3D/file/index.m3u8
-ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719595026/ei/spt-ZsXmCaiAkucPqO20qAI/ip/74.249.14.189/id/QyES_3uJBD0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181251/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2AdJU6DKJ646uLdK8GlpuCVx5dvbTf-Tw8D-WQL2f5ZZI-_NmEN7XxuuN8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL1j6NN1793XVojrm4w2gaZtUmPnC7FZnSIyuwdOo0VNAiA4bmhhZY7Xy9DmWqSBy6URVpYnastH-GdgioU_uY9SNA%3D%3D/file/index.m3u8
+Maasranga News,https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+Al Jazeera English,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599845/ei/ha5-ZonPMZX3sfIP-rCzoAI/ip/52.234.36.32/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f140VXDHWwk9q9KnRzYd9XVhv0_IyK9Xn8v7bIOMFRfwTeyQNUy2V85LOSs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMAF45c4zd1oKs4-WDQMgvO56G4-nrxM-iyuIswVChpyAiEAsS2LUvV7yvf8igc5qellpK_0QEXhuuC73mdge338lbo%3D/file/index.m3u8
+Reuters,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599846/ei/hq5-ZvPbE6H1sfIP94OasAI/ip/52.234.36.32/id/uPOk9Z-TK04.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-pZiUyhAdT-NZld4HCuQi1wcbk-Woqo6-UPbuCNYyuBsaKUpkG4Fq_09_Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK_J_yGGijNOJ7k_W9D3Fkk5ocPUjmTqUVIQYSyqaxn9AiB4RylZBUQG2dLP8KaJ3HEh7HNSlWEo_9gaQimTeJW8JQ%3D%3D/file/index.m3u8
+WINO,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599846/ei/hq5-ZrShLdG_sfIPpd2NkA0/ip/52.234.36.32/id/uhanwezKdjk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198104/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_-lXAfRBAX6GD4cybrPOvxOw4Ev4mgm64L7SOFUl_Rwvrx3n3Pak1SVFMA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN89NOhAJ_BSvbTZ1cKWMnABVqLePwvDGiCNgqT-Umi9AiBZA88peHX9TVYCpcCsibPv815GR1UnCf8bTXXZjA0tIg%3D%3D/file/index.m3u8
+DW News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599847/ei/h65-Zvv4E5yLsfIPtrIS/ip/52.234.36.32/id/tZT2MCYu6Zw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwmDt8WxbUDmkQlK7wdV6Pk4T2CycuX35ZRxmayC0V1JX9wsyH6y4kjtlPQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfQINHUDJhIKclZEerf3T9AUiFd9FWvncQiyTxtyTzsgCIQDnbwUZXgAnuHPmSC_JKH3F_k2b8wewo9tws12H6zbEaw%3D%3D/file/index.m3u8
+CNA,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599847/ei/h65-Zr2DLve_sfIPnu2BsAc/ip/52.234.36.32/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw0AxBkXPJxt8aAGPx7897eGn4KlyWx37CWB2Rp_vFKUG5tWwvG3FUvy0X8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ_pphRZGg4tZD8xvsQQ7ikWEsGJ-WVtJkmy3I0p0q8QAiEAwbiPV9BP19jsQwMEZzxkA3YzYfIn8WuohDenYBbdH70%3D/file/index.m3u8
+RTV Music,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599848/ei/iK5-ZqrvDti7sfIP4_Ke8A8/ip/52.234.36.32/id/kHgam3HvIbc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5RoXtEv1wJWASTtDReDqk8Ju8mU1co8wJdQ_4xN074B3edLHw6MtoNJ0-I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOQW2sYINPRB7MpKE0FWvU0S24XvIJVtyeZYCjalSKgYAiBKHZPHZaSd4yJPhVQ3m0GbbWxEptFNWoiGJqt9J66pzA%3D%3D/file/index.m3u8
+Nat Geo WILD,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599848/ei/iK5-ZsXqLrOQsfIPp8OFoAI/ip/52.234.36.32/id/PLR6KdmyTho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fx8zaGmhzWuL1Fke3LKlM3nPhi6XHaRWde4gjqWSy58XIDNXqBu9O6pqM9o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALBtmbkdJFRmbEjqmimKdGJy2kc8WAIXrqOOw28jDYEfAiEA8xw7wGMf2ajtQYOaJ0M7-_f7XlqmDYhMj4L_bq2A3WI%3D/file/index.m3u8
+ABP Ananda,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599849/ei/ia5-ZpCpENbFsfIPwq2G6A8/ip/52.234.36.32/id/gXBa3i3PzPY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4c90ZXZxSlMHSPz7I_Xh2cxSXg8sN27op8uyz6kWVM8szrZspilvLixj6c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfIyZ2pdAwZAY4gZh9HN_0vgv80bv2xNGcdEdPovB8CQCIBpY03PoNfJTx5oBptqUa-9yWnQMV-RcJb6RFRLDBxSD/file/index.m3u8
+ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599849/ei/ia5-ZvG-LaH1sfIP94OasAI/ip/52.234.36.32/id/d1NsKylAM-Q.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxON2c90qhw-Ku6dVfb_JEqabxHsukMw38WH50-uKhqRdNnviJVpwHO7pJE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALFP8ekrmaVvYEpjyIMOQnZTXc-eH_IaTRCdhmRc1j_FAiA-_p7jDrwTWbAgklk6tPvMr08oCbt4qb-pCf7OSaPOLw%3D%3D/file/index.m3u8
+ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719599850/ei/iq5-ZrurC7nssfIPjJ60-As/ip/52.234.36.32/id/1Nm3_t4d_nk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxd5247EQkxic-shuV_c6rF0HS1T3renmLdWy0nj0YiNryGGUvZNX0AOnnI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZ-ZMWl7Mcs2dG21oaPZOtVQumuL0-zIPMnId-1cSXqcCIEVlOKXfWiWHrdIy43d4zaG-IJ-OoZadbjFAeHZ0IKEW/file/index.m3u8
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 Star Sports 1 HD,https://criccoder.pages.dev/ss1.m3u8
 Star Sports 2 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 Star Sports 1 HD Hindi,https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
+Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
 ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -2763,6 +2764,7 @@ Ekhone TV,https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 Jago News 24,https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 ATN Music,https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 Amar Bangla,https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+Amar Digital,https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 Enter 10 Bangla,https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Bangla +,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Khushboo Bangla,http://idvd.multitvsolution.com/idvo/khushboo.m3u8
@@ -2820,6 +2822,7 @@ Zoom,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 Music India,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC World,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+DW,https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Surongo,https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 Makkah Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
@@ -2828,8 +2831,10 @@ GAZI TV,http://103.151.60.214:7444/1102/video.m3u8
 ATN Bangla,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/mono.m3u8
 ATN Islamic,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/mono.m3u8
 Channels S,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
+Channel I,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/mono.m3u8
 Ekushey Tv,https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Movie Bangla,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/mono.m3u8
+NRB Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
 Rtv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 Varendra Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/mono.m3u8
 SA Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
@@ -2839,6 +2844,7 @@ Nexus Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 Ekhon Tv,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
 Rajdhani TV,https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
 Florida Bangla TV,http://162.244.81.200:1935/live/livestream/playlist.m3u8
+Bangla+,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 ENTER 10 BANGLA,https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 GEO KAHANI,https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 GUBBARE KIDS,https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -2854,10 +2860,12 @@ MBC Plus Drama (1080p),https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca
 AMC (1080p),https://amchls.wns.live/hls/stream.m3u8
 SATV TV,https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 DBC NEWS,https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+Independent News,https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 JAMUNA TV,https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 Movie Bangla,https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 NTV,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 Rajdhani Tv,https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 Ekushey TV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Deepto Tv FHD,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 B4U Kadak SD,https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -6591,7 +6599,7 @@ Le vite degli altri – Pluto TV,https://service-stitcher.clusters.pluto.tv/v1/s
 TVBS,http://www.ubvip1688.com/ublive/cd2beafa60905fce.m3u8
 TVBS,http://www.ubvip1688.com/ublive/cd2beafa60905fce.m3u8
 TVBS,https://www.ttfly19lili.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
-TVBS,https://f26.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS,https://f04.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -6688,7 +6696,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 台視,http://www.ubvip1688.com/ublive/f8cf4d753192fdbc.m3u8
 台視,http://www.ubvip1688.com/ublive/f8cf4d753192fdbc.m3u8
-台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+台視,https://f06.fromonlinexcomf.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
 台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
@@ -6709,7 +6717,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 中視,http://www.ubvip1688.com/ublive/2a5952cc25765e1d.m3u8
 中視,http://www.ubvip1688.com/ublive/2a5952cc25765e1d.m3u8
-中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+中視,https://f09.ibmfocus.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
@@ -6798,7 +6806,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 台視,http://www.ubvip1688.com/ublive/f8cf4d753192fdbc.m3u8
 台視,http://www.ubvip1688.com/ublive/f8cf4d753192fdbc.m3u8
-台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+台視,https://f06.fromonlinexcomf.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
 台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
@@ -6819,7 +6827,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 中視,http://www.ubvip1688.com/ublive/2a5952cc25765e1d.m3u8
 中視,http://www.ubvip1688.com/ublive/2a5952cc25765e1d.m3u8
-中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+中視,https://f09.ibmfocus.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
@@ -6881,7 +6889,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 公視,https://z4.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
-緯來綜合,https://f04.duckinfoint.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+緯來綜合,https://f03.ccbookcohky.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
 緯來綜合,http://23.224.232.221:81/kk.php?id=videolandzonghe
 緯來綜合,https://lsj.37o.xyz/histar.php?id=videoland
@@ -6948,7 +6956,7 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 三立台灣,https://z4.ubtvfans.com/live/rx1/2436/294cd35bb80b013d4cb4e331abfabd68/index.m3u8
 三立台灣,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=19669&tsum=52d6062d021d23406f15935a1e478b0e
 三立台灣,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=19669&tsum=52d6062d021d23406f15935a1e478b0e
-三立都會,https://f04.duckinfoint.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+三立都會,https://www.abouthomex.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立都會,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立都會,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=MD6D5151199651511996&ct=19669&tsum=e01222fca502bef1ab7ccd4827559144
 三立都會,http://198.16.100.90:8278/sanlidouhui_twn/playlist.m3u8?tid=MD6D5151199651511996&ct=19669&tsum=e01222fca502bef1ab7ccd4827559144
@@ -7023,7 +7031,7 @@ tvN,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/inde
 東森綜合,https://z4.ubtvfans.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
 東森綜合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
 東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
-東森超視,https://f31.usplaycdn.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+東森超視,https://f03.ccbookcohky.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=19669&tsum=6a4d4ee150db69023af59ea067f116ff
 東森超視,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=19669&tsum=6a4d4ee150db69023af59ea067f116ff
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
@@ -7145,7 +7153,7 @@ TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A165749
 TVBS,http://www.ubvip1688.com/ublive/cd2beafa60905fce.m3u8
 TVBS,http://www.ubvip1688.com/ublive/cd2beafa60905fce.m3u8
 TVBS,https://www.ttfly19lili.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
-TVBS,https://f26.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS,https://f04.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -7185,7 +7193,7 @@ JET綜合,https://z1.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/i
 JET綜合,https://z2.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
 JET綜合,https://z3.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
 JET綜合,https://z4.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
-緯來日本,https://f09.ibmfocus.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+緯來日本,https://f24.ccbookcohky.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 緯來日本,http://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 緯來日本,http://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MAAA1631271716312717&ct=19669&tsum=6ddfff8416416b2ff9114c3d2375606c
@@ -7408,7 +7416,7 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 CatchPlay電影,http://23.224.232.221:81/kk.php?id=catchplay_twn
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
-東森電影,https://f02.bootsaleuks.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+東森電影,https://f04.duckinfoint.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://23.224.232.221:81/kk.php?id=ettvmovie
@@ -7527,8 +7535,8 @@ StarMovies,http://23.224.232.221:81/kk.php?id=starmovies_raj
 緯來育樂,https://z3.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
 緯來育樂,https://z4.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 緯來育樂,https://z4.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
-緯來體育,https://f03.ccbookcohky.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-緯來體育,https://f03.ccbookcohky.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+緯來體育,https://f22.ccplay22aldrich.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+緯來體育,https://f22.ccplay22aldrich.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MEEE7028377470283774&ct=19669&tsum=c420d67d8ad263601f4175eded108032
@@ -7545,14 +7553,14 @@ ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2
 ELEVEN體育1,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
 ELEVEN體育1,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
 ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-愛爾達體育1,https://f04.duckinfoint.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-愛爾達體育1,https://f04.duckinfoint.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+愛爾達體育1,https://f05.eggonnetus.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+愛爾達體育1,https://f05.eggonnetus.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-愛爾達體育2,https://f03.ccbookcohky.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
-愛爾達體育2,https://f03.ccbookcohky.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
+愛爾達體育2,https://f06.fromonlinexcomf.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
+愛爾達體育2,https://f06.fromonlinexcomf.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
 愛爾達體育2,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 愛爾達體育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 愛爾達體育2,http://23.224.232.221:81/kk.php?id=eltasport2_twn
@@ -7560,8 +7568,8 @@ ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
 愛爾達體育2,http://50.7.238.114:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 愛爾達體育2,http://198.16.100.90:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
-愛爾達體育3,https://f07.googleling.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-愛爾達體育3,https://f07.googleling.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
 愛爾達體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
 愛爾達體育3,http://50.7.238.114:8278/eltasport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
 愛爾達體育3,http://198.16.100.90:8278/eltasport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
@@ -7571,8 +7579,8 @@ ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f
 愛爾達體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
 愛爾達體育3,http://50.7.238.114:8278/sport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
 愛爾達體育3,http://198.16.100.90:8278/sport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
-愛爾達體育4,https://f05.eggonnetus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
-愛爾達體育4,https://f05.eggonnetus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 愛爾達體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 愛爾達體育4,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MAAA1894400518944005&ct=19669&tsum=6bb5ed729263ca3e4af7e1c03fb9cd4b
 愛爾達體育4,http://23.224.232.221:81/kk.php?id=natgeowild_twn
@@ -7610,9 +7618,9 @@ ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f
 博斯高球2,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
 博斯網球,http://www.ubvip1688.com/ublive/37e6ea403966cba7.m3u8
 博斯網球,http://www.ubvip1688.com/ublive/37e6ea403966cba7.m3u8
-博斯網球,https://f09.ibmfocus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+博斯網球,https://f05.eggonnetus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 博斯網球,http://www.ubvip1688.com/ublive/37e6ea403966cba7.m3u8
-博斯網球,https://f09.ibmfocus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+博斯網球,https://f05.eggonnetus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 博斯網球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 博斯網球,http://23.224.232.221:81/kk.php?id=bositennis_twn
