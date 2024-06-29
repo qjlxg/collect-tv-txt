@@ -2664,10 +2664,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=748fa84bbe372f0e6a083d1ccc3ade69&txTime=66805101
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=cb5523ba229e91490142660be0451940&txTime=66805101
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=994222bea7ed3ec56910671e7b8e5e34&txTime=66805101
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=d1f233f1018e52caca955534cc7e00fb&txTime=66805102
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=f48b8d51fd38636302680ba824c1f759&txTime=66805CEF
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=08f30fe3be82dc662a37623e29f81911&txTime=66805CEF
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=0a6f897ad24d701e49e07e71babb5988&txTime=6680582A
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=4a6f9aa3ce95323042afc2ad36fac844&txTime=66805CF0
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2747,13 +2747,13 @@ Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
 ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 MY TV,https://myflixbd.com/0.m3u8
 Bangla TV,https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 Bangla TV Europe,https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-Banglavision,https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 Boishakhi TV,https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 Green TV,https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 CHANNEL S HD,https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
@@ -2825,9 +2825,7 @@ Zoom,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 Music India,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC World,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-DW,https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24,https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 Surongo,https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 Willow HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
 Willow Xtra HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
@@ -2848,6 +2846,7 @@ Xplore TV 📶,https://xlpore-samsungus.amagi.tv/playlist.m3u8
 Discovery_Bangla,https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 Discovery HD,https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 Discovery HD (Subir),https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+Discovery HD,https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 Discovery Hindi HD (BD),https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 Discovery HD,https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 TLC (L*),https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
