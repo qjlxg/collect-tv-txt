@@ -1316,6 +1316,7 @@ JP1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
+海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=674055f51719694764
 RTP 1,https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 RTP 2,https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -2665,10 +2666,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=2ee12229d13e426a8eab65a97540a3ff&txTime=668048BF
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=224a7fd0be6d9e3b078e0f7786df0641&txTime=668048BF
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=f3fcaee334a7b49925f2b2cb829d20f1&txTime=668048C0
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=2e80c48edbf11dd1c1b0d66f899f54c9&txTime=668048C0
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=748fa84bbe372f0e6a083d1ccc3ade69&txTime=66805101
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=cb5523ba229e91490142660be0451940&txTime=66805101
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=994222bea7ed3ec56910671e7b8e5e34&txTime=66805101
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=d1f233f1018e52caca955534cc7e00fb&txTime=66805102
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2744,12 +2745,9 @@ ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 Hotstar Live Match,https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 Star Sports 1 HD,https://criccoder.pages.dev/ss1.m3u8
 Star Sports 2 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-Star Sports 1 HD Hindi,https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
-ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
@@ -2762,6 +2760,8 @@ Green TV,https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 CHANNEL S HD,https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 Kids Creation,https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 Somoy TV,https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+Independent TV,https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+News 24,https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 Ekhone TV,https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 Jago News 24,https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 ATN Music,https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
@@ -2835,7 +2835,6 @@ Willow Xtra HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
 Redbull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 TRT 1,https://d1u68oyra9spme.cloudfront.net/master.m3u8
 Match Time,https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-RTL HD,https://s6.hopslan.com/rtlq122/index.m3u8
 Servus TV,https://s6.hopslan.com/servus2/index.m3u8
 Servus TV,https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 TXNMax 1,https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
