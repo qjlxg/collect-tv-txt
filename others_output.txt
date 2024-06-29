@@ -2671,7 +2671,7 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
 贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=6028de90aa5450775861e0315d9301f9&txTime=667FD1BF
 贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=e59c8f9aab7dfed733bda66f6d696595&txTime=667FD1BF
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=b444b86f665e1e3967ff1b1d112756bd&txTime=667FCB86
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=94e0d4eaa497405a0247aa29d6814f5d&txTime=667FD41A
 贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=781d6e01316dbe243a1e47981256f874&txTime=667FD1C0
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
