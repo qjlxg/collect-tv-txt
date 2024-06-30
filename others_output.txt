@@ -2704,10 +2704,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=ec8ae62f19a1641f69973f9fa0bdd1e9&txTime=6681E093
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=fa16aabdc424e78e4acea3998604c445&txTime=6681E094
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=846ef6f0449a767eee30edf57db50301&txTime=6681E094
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=6f4fb0c9a4d1c78c5d6172863c75775e&txTime=6681E094
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=cd7544a1dd19db5a25080f67200c5467&txTime=6681E7EF
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=e151e3ceae315cfd12f9d38af38a6762&txTime=6681E7EF
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=5f965797d3750d8dd6213d82e4a5bb6e&txTime=6681E7EF
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=ec38d687adfe73a561fc7d3e7d2d1b8d&txTime=6681E7F0
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2780,11 +2780,11 @@ ABP Ananda,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719
 ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719807474/ei/ktmBZobJEPmJkucP6N2_oAg/ip/172.190.111.194/id/v0upoqifCsw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxMaWFzEjX_tl2o_iWSv-QoVuWM73xByVqLImE47UiZdnbGgkSYhYdqiPVY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPIhaW6hSjnoarSRg6LyOWPaX2SI6pUXe3pkutBMbiG8CIQCvwqLNNk8uaKW4x6U_n61JIffixpbun8gF0pe9WwW9ZA%3D%3D/file/index.m3u8
 ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719807474/ei/ktmBZtG2MuyKkucP1syesAQ/ip/172.190.111.194/id/YnZp_O_oWqo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9Z6aPrB-gS-jgsdL181XJlx2KeLOdQn8VPK4zt8yp-bYD-DrMI1J84Qrc0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbjUhINXtB5E7NHUlViR4cgJO3FOa4cXI2mLq9My2iHECID0eiuzfcI8HYqwE359D4Hjnw6jjTKcBYHRkbqwzITcv/file/index.m3u8
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
 ATN Bangla UK,https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+Channel I,https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 NTV UK,https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 RTV,https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 Deepto TV,https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
@@ -2806,7 +2806,6 @@ Amar Digital,https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbangl
 Enter 10 Bangla,https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Khushboo Bangla,http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 Sony Kal,https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-DD National,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 The Movie Club,https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 South Station,https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 B4U Kadak,https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -2814,7 +2813,6 @@ Sheemaroo Bollywood,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooe
 Joo Music,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 Manoranjan Movies,http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 BFlix Movies,http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-Star Sports 1 HD Hindi,https://humsab.xyz/In_Hin/index.m3u8
 Eurosports,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 PTV Sports,http://121.91.61.106:8000/play/a00l/index.m3u8
 A Sports,http://121.91.61.106:8000/play/a03o/index.m3u8
@@ -2854,7 +2852,6 @@ Gubbare,https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 Action Hollywood Movies,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 YRF Music HD,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 Hindi Hits HD,http://146.59.253.52:8080/hindihitshd/index.m3u8
-9XM,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 Mastii Music,https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 Bollywood Hungama,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 Show Box,https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
@@ -2864,7 +2861,6 @@ Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC World,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 DW,https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24,https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 Surongo,https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 Willow HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
 Willow Xtra HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
@@ -2883,6 +2879,8 @@ Eleven Sports 2,https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 Eleven Sports 3,https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 Canal Sports 3,http://145.239.5.177:8080/538/index.m3u8
 Xplore TV 📶,https://xlpore-samsungus.amagi.tv/playlist.m3u8
+Discovery_Bangla,https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+Discovery HD,https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 Discovery HD (Subir),https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 Discovery HD,https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 Discovery Hindi HD (BD),https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
@@ -4045,8 +4043,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 央視文化精品,http://218.88.87.160:4022/rtp/239.93.42.47:5140?$四川電信
 央視文化精品,http://218.88.87.161:4022/rtp/239.93.42.47:5140?$四川電信
 女性時尚,http://110.188.34.27:1314/rtp/239.93.42.62:5140?$四川電信
-女性時尚,http://113.87.224.16:5000/rtp/239.253.43.23:5146?$廣東電信
-女性時尚,http://113.87.224.16:5000/rtp/239.253.43.8:5146?$廣東電信
 女性時尚,http://125.70.160.92:4000/rtp/239.93.42.62:5140?$四川電信
 女性時尚,http://218.88.87.160:4022/rtp/239.93.42.62:5140?$四川電信
 女性時尚,http://218.88.87.161:4022/rtp/239.93.42.62:5140?$四川電信
@@ -4090,8 +4086,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 第一劇場,http://111.178.104.129:9999/rtp/239.69.1.74:10084?$湖北電信
 第一劇場,http://111.179.75.230:9999/rtp/239.69.1.74:10084?$湖北電信
 第一劇場,http://113.240.159.126:8888/rtp/239.76.254.49:9000?$湖南電信
-第一劇場,http://113.87.224.16:5000/rtp/239.253.43.15:5146?$廣東電信
-第一劇場,http://113.87.224.16:5000/rtp/239.253.43.28:5146?$廣東電信
 第一劇場,http://114.219.106.245:8888/rtp/239.49.8.94:8000?$江蘇電信
 第一劇場,http://114.221.202.221:4022/rtp/239.49.8.94:8000?$江蘇電信
 第一劇場,http://114.221.238.212:8888/rtp/239.49.8.94:8000?$江蘇電信
@@ -4105,8 +4099,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲劇場,http://110.188.34.27:1314/rtp/239.93.1.156:5140?$四川電信
 風雲劇場,http://111.165.229.77:8000/rtp/225.1.2.174:5002?$天津聯通
 風雲劇場,http://113.240.159.126:8888/rtp/239.76.254.50:9000?$湖南電信
-風雲劇場,http://113.87.224.16:5000/rtp/239.253.43.16:5146?$廣東電信
-風雲劇場,http://113.87.224.16:5000/rtp/239.253.43.26:5146?$廣東電信
 風雲劇場,http://114.219.106.245:8888/rtp/239.49.8.89:8000?$江蘇電信
 風雲劇場,http://114.221.202.221:4022/rtp/239.49.8.89:8000?$江蘇電信
 風雲劇場,http://114.221.238.212:8888/rtp/239.49.8.89:8000?$江蘇電信
@@ -4118,10 +4110,7 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲劇場,http://58.212.42.189:6500/rtp/239.49.8.89:8000?$江蘇電信
 風雲劇場,http://59.34.138.195:4000/rtp/239.253.43.16:5146?$廣東電信
 風雲劇場,http://59.34.138.195:4000/rtp/239.253.43.26:5146?$廣東電信
-風雲足球,http://113.87.224.16:5000/rtp/239.253.43.14:5146?$廣東電信
 風雲足球,http://59.34.138.195:4000/rtp/239.253.43.14:5146?$廣東電信
-風雲音樂,http://113.87.224.16:5000/rtp/239.253.43.29:5146?$廣東電信
-風雲音樂,http://113.87.224.16:5000/rtp/239.253.43.6:5146?$廣東電信
 風雲音樂,http://114.219.106.245:8888/rtp/239.49.8.92:8000?$江蘇電信
 風雲音樂,http://114.221.202.221:4022/rtp/239.49.8.92:8000?$江蘇電信
 風雲音樂,http://114.221.238.212:8888/rtp/239.49.8.92:8000?$江蘇電信
@@ -4129,14 +4118,10 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲音樂,http://58.212.42.189:6500/rtp/239.49.8.92:8000?$江蘇電信
 風雲音樂,http://59.34.138.195:4000/rtp/239.253.43.29:5146?$廣東電信
 風雲音樂,http://59.34.138.195:4000/rtp/239.253.43.6:5146?$廣東電信
-央視文化精品,http://113.87.224.16:5000/rtp/239.253.43.13:5146?$廣東電信
-央視文化精品,http://113.87.224.16:5000/rtp/239.253.43.27:5146?$廣東電信
 央視文化精品,http://59.34.138.195:4000/rtp/239.253.43.13:5146?$廣東電信
 央視文化精品,http://59.34.138.195:4000/rtp/239.253.43.27:5146?$廣東電信
 懷舊劇場,http://110.188.34.27:1314/rtp/239.93.1.198:5140?$四川電信
 懷舊劇場,http://111.165.229.77:8000/rtp/225.1.2.173:5002?$天津聯通
-懷舊劇場,http://113.87.224.16:5000/rtp/239.253.43.25:5146?$廣東電信
-懷舊劇場,http://113.87.224.16:5000/rtp/239.253.43.5:5146?$廣東電信
 懷舊劇場,http://117.10.53.230:5000/rtp/225.1.2.173:5002?$天津聯通
 懷舊劇場,http://125.70.160.92:4000/rtp/239.93.1.198:5140?$四川電信
 懷舊劇場,http://218.88.87.160:4022/rtp/239.93.1.198:5140?$四川電信
@@ -4147,9 +4132,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 4K樂享,http://125.70.160.92:4000/rtp/239.93.0.43:5140?$四川電信
 4K樂享,http://218.88.87.160:4022/rtp/239.93.0.43:5140?$四川電信
 4K樂享,http://218.88.87.161:4022/rtp/239.93.0.43:5140?$四川電信
-廣東綜藝4K,http://113.87.224.16:5000/rtp/239.77.0.244:5146?$廣東電信
-廣東綜藝4K,http://113.87.224.16:5000/rtp/239.77.0.245:5146?$廣東電信
-廣東綜藝4K,http://113.87.224.16:5000/rtp/239.77.1.237:5146?$廣東電信
 廣東綜藝4K,http://59.34.138.195:4000/rtp/239.77.0.244:5146?$廣東電信
 廣東綜藝4K,http://59.34.138.195:4000/rtp/239.77.0.245:5146?$廣東電信
 廣東綜藝4K,http://59.34.138.195:4000/rtp/239.77.1.237:5146?$廣東電信
@@ -4158,7 +4140,6 @@ Bestv4K,http://113.240.159.126:8888/rtp/239.76.254.3:9000?$湖南電信
 中錄動漫4K,http://125.70.160.92:4000/rtp/239.93.1.188:5140?$四川電信
 中錄動漫4K,http://218.88.87.160:4022/rtp/239.93.1.188:5140?$四川電信
 中錄動漫4K,http://218.88.87.161:4022/rtp/239.93.1.188:5140?$四川電信
-南國都市4K,http://113.87.224.16:5000/rtp/239.253.43.99:5146?$廣東電信
 南國都市4K,http://59.34.138.195:4000/rtp/239.253.43.99:5146?$廣東電信
 搜狐4K,http://111.165.229.77:8000/rtp/225.1.2.190:5002?$天津聯通
 搜狐4K,http://117.10.53.230:5000/rtp/225.1.2.190:5002?$天津聯通
