@@ -2670,10 +2670,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=a59ca16e229b21ddbb4a616cecc04e2c&txTime=668145E2
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=5e2eb6e6f44d9d58269cb9e5f254280e&txTime=668145E2
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=fa674a407ba615daa53bcb7d7bda7b13&txTime=66814122
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=c5527eda7fad2e50363ff9ec5291012e&txTime=668145E3
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=759474f622f34641509f5e05027abbef&txTime=66814FCA
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=f2539ddf919f4a4c2927db25e9a649da&txTime=66814FCA
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=4946e54e9d74e5f604ff9f3d67113c29&txTime=66814FCA
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=d5c0ac9bd15b570addc52d08e8875f62&txTime=66814FCB
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2746,7 +2746,6 @@ ABP Ananda,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719
 ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719767693/ei/LT6BZpzlDqmvsfIPjoi2iAI/ip/52.234.38.129/id/CPsg_P3DH-w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f10lP_cqBpMImKqd8_kPJRR1f2_QN11mdN8xCV6vQ_2ss89WjeDSIAl8wpU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgA-NG_l02YW_pspFwZXg1-Dmvt11pV7HZMxMpP6nSSjYCIGmQlADHZELsm7Qjfk6tZGVPaZr_kCI7CPd9VB8QPdvB/file/index.m3u8
 ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719767693/ei/LT6BZsfBKIHFsfIP-qGZsAY/ip/52.234.38.129/id/gMPKyIqlf08.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6KsHwluLevwBGWiEvAiiB2Lzc4UljIgTZEy2yjHMxO31tW_k5pXHqgtLfI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIIr3Ge3ChGtN8b7mWCTUqVzHXD5BjdP79hgs1ksftPrAiEA4vHMeaCeVU3vQ-XAWt03_kavvLMjeQ3RDyCUrVdwMHk%3D/file/index.m3u8
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
@@ -2761,6 +2760,7 @@ Banglavision,https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 Boishakhi TV,https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 Green TV,https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 CHANNEL S HD,https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
+Kids Creation,https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 Somoy TV,https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 Independent TV,https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 Ekhone TV,https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
@@ -2830,9 +2830,7 @@ Zoom,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 Music India,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC World,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-DW,https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24,https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 Surongo,https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 Willow HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
 Willow Xtra HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
