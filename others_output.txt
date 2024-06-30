@@ -1272,9 +1272,9 @@ CETV1中国教育电视台一套,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
-湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWUwZTUwMmYzMzU2NWZhY2E1N2Q1YTZiYjhkMWUxZTIxJmVzPTE3MTk3MzA1NTEmdXVpZD1hZTc1MjcyZTliNGQyNTMzZjdjYzUxMzU1NjMzMTQ0ZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
+湖南娱乐频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTc0N2YyZDUyYTdhMWVkYzZjM2FkMmJkZjVmMjIyYmRjJmVzPTE3MTk3NTkzNTUmdXVpZD03ODU5ZjUxY2M3ZGQ1Y2YwMWViOGNhN2UzZjJmODM1Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/HNYLMPP360.m3u8
 金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNhYWFmZGU0NjI1NTQyNTJiZTQ5ZWFmZjYxNGE1YzcyJmVzPTE3MTk3NTQ2NjYmdXVpZD1kNTkxNGJjYjk2ZmQxMjY1MGQ5ZGY0OTBjMjAyYzU5MS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
-湖南国际频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWVlOTE0ZDQ2OTRmZjY3NWExYThlZjViNjVlZDllNzkwJmVzPTE3MTk3MjkwOTYmdXVpZD04YmQ2YmMyNjAxM2JjZGMyZjI4MDJhOGM5ODhmNDA4Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/HNGJMPP360.m3u8
+湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNiZmU0OGI2OGYwOTgwODgwMjJkMGQ2ZjY1MjY2ZGRlJmVzPTE3MTk3NTc5OTImdXVpZD0zYTA5NWI4NTRiOTRiMDczZGJkYzlhYTFmNmQ0ZjAyZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWViNDE4NzZjNGE4MDQ4ZDU4MmVmOThhMzFhYTUyMjFmJmVzPTE3MTk3MzM1NDYmdXVpZD1mOWRiYzk1MGVkMjdiZDBjNDkxNDczYzAwNDJhMDFlYi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
@@ -1312,7 +1312,6 @@ NU2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 JP1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-CGNT 记录频道,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 RTP 1,https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 RTP 2,https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
@@ -4151,6 +4150,7 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 第一劇場,http://116.5.145.179:50000/rtp/239.253.43.28:5146?$廣東電信
 第一劇場,http://117.10.53.230:5000/rtp/225.1.2.175:5002?$天津聯通
 第一劇場,http://117.62.15.47:4022/rtp/239.49.8.94:8000?$江蘇電信
+第一劇場,http://117.86.51.95:7777/rtp/239.49.8.94:8000?$江蘇電信
 第一劇場,http://118.250.160.104:8888/rtp/239.76.254.49:9000?$湖南電信
 第一劇場,http://118.254.156.192:8888/rtp/239.76.254.49:9000?$湖南電信
 第一劇場,http://118.254.157.12:8888/rtp/239.76.254.49:9000?$湖南電信
@@ -4164,7 +4164,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 第一劇場,http://119.135.1.6:9999/rtp/239.253.43.15:5146?$廣東電信
 第一劇場,http://119.135.1.6:9999/rtp/239.253.43.28:5146?$廣東電信
 第一劇場,http://121.224.8.75:8888/rtp/239.49.8.94:8000?$江蘇電信
-第一劇場,http://121.229.146.224:8888/rtp/239.49.8.94:8000?$江蘇電信
 第一劇場,http://121.60.89.12:8000/rtp/239.69.1.74:10084?$湖北電信
 第一劇場,http://121.60.90.154:8000/rtp/239.69.1.74:10084?$湖北電信
 第一劇場,http://121.63.0.214:8000/rtp/239.69.1.74:10084?$湖北電信
@@ -4180,6 +4179,7 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲劇場,http://116.5.145.179:50000/rtp/239.253.43.26:5146?$廣東電信
 風雲劇場,http://117.10.53.230:5000/rtp/225.1.2.174:5002?$天津聯通
 風雲劇場,http://117.62.15.47:4022/rtp/239.49.8.89:8000?$江蘇電信
+風雲劇場,http://117.86.51.95:7777/rtp/239.49.8.89:8000?$江蘇電信
 風雲劇場,http://118.112.203.147:8888/rtp/239.93.1.156:5140?$四川電信
 風雲劇場,http://118.113.234.76:8888/rtp/239.93.1.156:5140?$四川電信
 風雲劇場,http://118.116.39.148:8888/rtp/239.93.1.156:5140?$四川電信
@@ -4195,7 +4195,6 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲劇場,http://119.135.1.6:9999/rtp/239.253.43.16:5146?$廣東電信
 風雲劇場,http://119.135.1.6:9999/rtp/239.253.43.26:5146?$廣東電信
 風雲劇場,http://121.224.8.75:8888/rtp/239.49.8.89:8000?$江蘇電信
-風雲劇場,http://121.229.146.224:8888/rtp/239.49.8.89:8000?$江蘇電信
 風雲劇場,http://121.8.26.161:8899/rtp/239.253.43.16:5146?$廣東電信
 風雲劇場,http://121.8.26.161:8899/rtp/239.253.43.26:5146?$廣東電信
 風雲劇場,http://14.153.210.66:4022/rtp/239.253.43.16:5146?$廣東電信
@@ -4211,12 +4210,12 @@ TVB功夫臺[1280*720],https://v2h.jdshipin.com/asia_action/asia_action.stream/c
 風雲音樂,http://116.5.145.179:50000/rtp/239.253.43.29:5146?$廣東電信
 風雲音樂,http://116.5.145.179:50000/rtp/239.253.43.6:5146?$廣東電信
 風雲音樂,http://117.62.15.47:4022/rtp/239.49.8.92:8000?$江蘇電信
+風雲音樂,http://117.86.51.95:7777/rtp/239.49.8.92:8000?$江蘇電信
 風雲音樂,http://119.131.240.235:8000/rtp/239.253.43.29:5146?$廣東電信
 風雲音樂,http://119.131.240.235:8000/rtp/239.253.43.6:5146?$廣東電信
 風雲音樂,http://119.135.1.6:9999/rtp/239.253.43.29:5146?$廣東電信
 風雲音樂,http://119.135.1.6:9999/rtp/239.253.43.6:5146?$廣東電信
 風雲音樂,http://121.224.8.75:8888/rtp/239.49.8.92:8000?$江蘇電信
-風雲音樂,http://121.229.146.224:8888/rtp/239.49.8.92:8000?$江蘇電信
 風雲音樂,http://121.8.26.161:8899/rtp/239.253.43.29:5146?$廣東電信
 風雲音樂,http://121.8.26.161:8899/rtp/239.253.43.6:5146?$廣東電信
 風雲音樂,http://14.153.210.66:4022/rtp/239.253.43.29:5146?$廣東電信
