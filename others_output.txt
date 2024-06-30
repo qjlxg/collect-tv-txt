@@ -1273,7 +1273,6 @@ CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWQ5OTM2NjY1OWZkY2M3MzViNmVmNTdmNTY3YjNmM2ZlJmVzPTE3MTk3ODgxODYmdXVpZD01M2M1MTUzZGJiZTIyNzE0MjEwZWM3NWY0MzJmYmE1ZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
-金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQyYTQwZDFkNWFiNjFiMTk4YTQzMDMzZWI0YjZhMTJkJmVzPTE3MTk3ODM1MDYmdXVpZD1lM2JlNGIyNDgzNWQwODMzNjdkNzc1ZmUyZjA5MDY1NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 湖南国际频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTA3MWQ3YWI4ZjkyZmEwMmRlYTcwNzVjNDRlYWEyMjM0JmVzPTE3MTk3ODc0MjYmdXVpZD00MjMxOTFlNGY1MzMwMjNiNGY0YjVlNzNlZjgyYWRjOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
 长沙新闻频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTZlNjY1ODc0NzRiNjY3MTU3OThlNTYwMDNmMzM5YTM5JmVzPTE3MTk3OTIwMzAmdXVpZD1kZDQ0YTQ1ZDNiMTY2NzE4ODVkYTgyMzZmODM3ZDhmYi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -2670,10 +2669,10 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=57485c0fb51c67178cc6f0d99273e90a&txTime=6681776E
-贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=aab9341f58f242e3a1c0bb66bc828e21&txTime=6681776E
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=31a54a16fa7b31efd49581431562a1ec&txTime=6681776F
-贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=6c28b21cc104c85a8fefe8b8bd0d0582&txTime=6681776F
+贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=a5d1825014cf1b66f7f39d026692a296&txTime=66818667
+贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=e80246fed16080222aa30093032b1ba3&txTime=66818667
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=203b9b09ffa8e949c54d0ce0729c2cd3&txTime=66817F80
+贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=5927869cf5507e2b97d95887e2b792ce&txTime=66818667
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 科教影视,http://123.154.30.252:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2746,6 +2745,7 @@ ABP Ananda,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719
 ABP NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719782427/ei/u3eBZo_3Mdq0kucP4r-9sAQ/ip/20.81.159.136/id/Gn3k6yaLaRU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_H549eO7HzNyu9cUHY0Tw5cvb3as1Qoq0XpwtWJBof-RoXRgX4tXtGETnI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKZ1pUnLhTNv4Am-y2l3KdXQkLfzxV2L1kaVf7zemirHAiAcGju3_O9IkIUrXwed_HHAK1oUWn9Wb4cu9Q9Nt9RUuA%3D%3D/file/index.m3u8
 ZEE NEWS,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719782428/ei/vHeBZumDHNmAkucP7NWKuAQ/ip/20.81.159.136/id/pcCx9i7oZLo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9MgdicLpwayB-lY2zL8LJoBZ2yvxRqAM56HJWntnzkP2Q1eggl1-C1uHj4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPVnaSlsiS66gs8O0QiU0da62ESMvI7Qu_g1vx13eLH5AiAD9qe9eemvssx0NUIpVza1q-wyILc2ME9H1kASzneSUQ%3D%3D/file/index.m3u8
 ATN Bangla,https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+Live Sports(Only Match Time),https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Live Sports(Only Match Time),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Live,http://145.239.5.177:8080/566/index.m3u8
 Bein Sports 2,http://145.239.5.177:8080/558/index.m3u8
@@ -2762,6 +2762,7 @@ Green TV,https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 CHANNEL S HD,https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 Kids Creation,https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 Somoy TV,https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+Independent TV,https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 Ekhone TV,https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 Jago News 24,https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 ATN Music,https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
@@ -2830,6 +2831,7 @@ Music India,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC World,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+France 24,https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 Surongo,https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 Willow HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
 Willow Xtra HD,https://mm5-97.tinyuri.org/live/m4-index.m3u8
