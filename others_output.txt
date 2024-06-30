@@ -1273,7 +1273,6 @@ CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 湖南娱乐频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTc0N2YyZDUyYTdhMWVkYzZjM2FkMmJkZjVmMjIyYmRjJmVzPTE3MTk3NTkzNTUmdXVpZD03ODU5ZjUxY2M3ZGQ1Y2YwMWViOGNhN2UzZjJmODM1Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/HNYLMPP360.m3u8
-金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNhYWFmZGU0NjI1NTQyNTJiZTQ5ZWFmZjYxNGE1YzcyJmVzPTE3MTk3NTQ2NjYmdXVpZD1kNTkxNGJjYjk2ZmQxMjY1MGQ5ZGY0OTBjMjAyYzU5MS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYJSMPP360.m3u8
 湖南国际频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNiZmU0OGI2OGYwOTgwODgwMjJkMGQ2ZjY1MjY2ZGRlJmVzPTE3MTk3NTc5OTImdXVpZD0zYTA5NWI4NTRiOTRiMDczZGJkYzlhYTFmNmQ0ZjAyZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 长沙新闻频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWI2YjYxMzVjMTQ5ZTIzMjZjMTE0ODI4MGM1OWM1NTExJmVzPTE3MTk3NjMyMzAmdXVpZD05ZGViZjUyNjkzMTJiYTNjZTcwNTcxZGMxMzI2YmM3Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -2672,7 +2671,7 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 贵州-2,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
 贵州-3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=8408a640235f0c0f74ed6151bb25ba50&txTime=66813DED
 贵州-4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=210fd112632b4415ae1cd1469d21dc28&txTime=66813DED
-贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=eaa6e9e7ce142e910e7af5cf093a0edb&txTime=6681392E
+贵州-5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=fa674a407ba615daa53bcb7d7bda7b13&txTime=66814122
 贵州-6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=cda1ce40e4ae5e5687fc648894c30599&txTime=66813DEE
 IPTV体育,http://118.248.168.147:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://112.235.202.113:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
