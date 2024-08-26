@@ -6,16 +6,17 @@ from datetime import datetime
 
 # 定义要访问的多个URL
 urls = [
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-    'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
-    'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
-    'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
-    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
-    'https://m3u.ibert.me/txt/fmml_ipv6.txt',
-    'https://m3u.ibert.me/txt/ycl_iptv.txt',
-    'https://m3u.ibert.me/txt/y_g.txt',
-    'https://m3u.ibert.me/txt/j_home.txt',
-    'https://github.com/hujingguang/ChinaIPTV/raw/main/cnTV_AutoUpdate.m3u8',
+'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
+'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
+'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', 
+'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', 
+'https://m3u.ibert.me/txt/fmml_ipv6.txt',
+'https://tva.org.ua/ip/sam/ua.m3u',
+'https://m3u.ibert.me/txt/ycl_iptv.txt',
+'https://m3u.ibert.me/txt/y_g.txt',
+'https://m3u.ibert.me/txt/j_home.txt',
+'https://github.com/hujingguang/ChinaIPTV/raw/main/cnTV_AutoUpdate.m3u8',
 'https://github.com/LITUATUI/M3UPT/raw/main/M3U/M3UPT.m3u',
 'https://github.com/Daopanhya/IPTV/raw/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2.m3u',
 'https://github.com/naveenland4/News_Channels/raw/main/news_channels.m3u',
@@ -49,12 +50,12 @@ urls = [
 'https://github.com/cymz6/AutoIPTV/raw/main/merged_output.m3u,'
 'https://github.com/vbskycn/iptv4/raw/master/iptv4.m3u,'
 'https://github.com/Jason6111/iptv/raw/main/m3u/CCTV.m3u'
-    'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
-    'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
-    'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', #每天早晚各自动更新1次 2024-06-03 17:50
-    'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  #1小时自动更新1次11:11 2024/05/13
-    'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', #1小时自动更新1次11:11 2024/05/13
-    'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
+'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
+'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
+'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
+'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',  
+'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt', 
+'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
 ]
 
 #read BlackList 2024-06-17 15:02
